@@ -1,0 +1,7 @@
+/Users/fabiobalancin/Documents/iPhone/8D/Thiago/Classes/ThiagoViewController.m: In function '-[ThiagoViewController viewDidLoad]':
+/Users/fabiobalancin/Documents/iPhone/8D/Thiago/Classes/ThiagoViewController.m:45: error: 'UIButtonTypebuttonType' undeclared (first use in this function)
+/Users/fabiobalancin/Documents/iPhone/8D/Thiago/Classes/ThiagoViewController.m:45: error: (Each undeclared identifier is reported only once
+/Users/fabiobalancin/Documents/iPhone/8D/Thiago/Classes/ThiagoViewController.m:45: error: for each function it appears in.)
+/Users/fabiobalancin/Documents/iPhone/8D/Thiago/Classes/ThiagoViewController.m:47: error: 'bt2' undeclared (first use in this function)
+/Users/fabiobalancin/Documents/iPhone/8D/Thiago/Classes/ThiagoViewController.m: In function '-[ThiagoViewController tirarfoto]':
+/Users/fabiobalancin/Documents/iPhone/8D/Thiago/Classes/ThiagoViewController.m:59: warning: class 'ThiagoViewController' does not implement the 'UINavigationControllerDelegate' protocol
