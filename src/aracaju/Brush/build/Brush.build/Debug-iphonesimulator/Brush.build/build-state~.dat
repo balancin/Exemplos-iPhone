@@ -1,0 +1,283 @@
+TBrush
+v7
+r0
+t318685436.304945
+cCheck dependencies
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/Info.plist Brush-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Brush/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Brush/BrushViewController.xib
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Brush_Prefix-hjfhufnibrsfpravjologyxmoxyc/Brush_Prefix.pch.gch Brush_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushView.o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D2416E60000000000000110
+t1294210790
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24066D0000000000298910
+t1294206573
+s2722064
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D2406C1000000000029DA10
+t1294206657
+s2742800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2406B40000000000001466
+t1294206644
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414D90000000000000AA1
+t1294210265
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D24154D00000000007651B0
+t1294210381
+s7754160
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/BrushViewController.xib
+c000000004D4E86880000000000001A3D
+t1296991880
+s6717
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Brush_Prefix.pch
+c000000004D4E868800000000000000B3
+t1296991880
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushAppDelegate.h
+c000000004D4E868600000000000001C9
+t1296991878
+s457
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushAppDelegate.m
+c000000004D4E86860000000000000A96
+t1296991878
+s2710
+i"BrushAppDelegate.h"
+i"BrushViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushView.h
+c000000004D4E878800000000000000C0
+t1296992136
+s192
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushView.m
+c000000004D4E88F20000000000000354
+t1296992498
+s852
+i"BrushView.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.h
+c000000004D4E868700000000000000DE
+t1296991879
+s222
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m
+c000000004D4E897700000000000006F3
+t1296992631
+s1779
+i"BrushViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/MainWindow.xib
+c000000004D4E86870000000000004E11
+t1296991879
+s19985
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/Brush.LinkFileList
+c000000004D4E89790000000000000240
+t1296992633
+s576
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushAppDelegate.o
+t1296992636
+s51188
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushView.o
+t1296992636
+s38660
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushViewController.o
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/main.o
+t1296992636
+s6348
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app.dSYM
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/Brush
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/BrushViewController.nib
+t1296992634
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/Info.plist
+t1296992633
+s583
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/MainWindow.nib
+t1296992634
+s1677
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/PkgInfo
+t1296992633
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Brush/main.m
+c000000004D4E8688000000000000015D
+t1296991880
+s349
+i<UIKit/UIKit.h>
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Brush_Prefix-hjfhufnibrsfpravjologyxmoxyc/Brush_Prefix.pch.gch
+t1296992636
+s15809968
+
+NBrush-Info.plist
+c000000004D4E8688000000000000038D
+t1296991880
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318685433#318685433#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318685436.114491
+e318685436.304889
+r1
+xCompileC
+xbuild/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushAppDelegate.m318685436#318685436#0(0"0(0#0#83"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushAppDelegate.m8640226560#2104"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Brush    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Brush_Prefix-hjfhufnibrsfpravjologyxmoxyc/Brush_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushAppDelegate.o0#
+
+CCompileC build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushView.o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318685436.117511
+e318685436.303668
+r1
+xCompileC
+xbuild/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushView.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushView.m318685436#318685436#0(0"0(0#0#76"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushView.m8639456032#2090"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Brush    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Brush_Prefix-hjfhufnibrsfpravjologyxmoxyc/Brush_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushView.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushView.o0#
+
+CCompileC build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318685436.115759
+e318685436.294275
+r0
+xCompileC
+xbuild/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m: In function '-[BrushViewController touchesBegan:withEvent:]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m:46: error: 'BrushView' undeclared (first use in this function)
+o/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m:46: error: (Each undeclared identifier is reported only once
+o/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m:46: error: for each function it appears in.)
+o/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m:46: error: 'brush' undeclared (first use in this function)
+o/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m:44: warning: unused variable 'point'
+o{standard input}:69:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:69:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+lSLF07#2@94"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m318685436#318685436#0(2045"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m: In function '-[BrushViewController touchesBegan:withEvent:]':/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m:46: error: 'BrushView' undeclared (first use in this function)/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m:46: error: (Each undeclared identifier is reported only once/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m:46: error: for each function it appears in.)/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m:46: error: 'brush' undeclared (first use in this function)/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m:44: warning: unused variable 'point'{standard input}:69:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:69:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:63:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:63:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13(4@51"'BrushView' undeclared (first use in this function)318685436#150#150#0(6@86"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m318685431#46#0#46#0#43"'*' undeclared (first use in this function)0(4@47"'brush' undeclared (first use in this function)318685436#580#146#0(6@86"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m318685431#46#0#46#0#43"'*' undeclared (first use in this function)0(22@23"Unused variable 'point'318685436#726#124#0(6@86"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m318685431#44#0#44#0#19"unused variable '*'0(0#0#86"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m8639858048#2110"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Brush    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Brush_Prefix-hjfhufnibrsfpravjologyxmoxyc/Brush_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Classes/BrushViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/BrushViewController.o1#
+
+CCompileC build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318685436.113175
+e318685436.294577
+r1
+xCompileC
+xbuild/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Brush/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Brush/main.m318685436#318685436#0(0"0(0#0#63"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/main.m8640573984#2072"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Brush    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Brush_Prefix-hjfhufnibrsfpravjologyxmoxyc/Brush_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Brush/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Brush/BrushViewController.xib
+s318685433.736058
+e318685434.561769
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Brush/BrushViewController.xib
+lSLF07#2@34"CompileXIB BrushViewController.xib318685433#318685434#0(0"0(0#0#80"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/BrushViewController.xib8639781952#640"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Brush    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/BrushViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/Brush/BrushViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Brush/MainWindow.xib
+s318685433.711093
+e318685434.561639
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Brush/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318685433#318685434#0(0"0(0#0#71"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/MainWindow.xib8640255360#622"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Brush    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/Brush/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/Brush
+r0
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/Brush normal i386
+r0
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/Info.plist Brush-Info.plist
+s318685433.577356
+e318685433.710994
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/Info.plist
+xBrush-Info.plist
+lSLF07#2@24"Process Brush-Info.plist318685433#318685433#0(0"0(0#0#73"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Brush-Info.plist13229804949078112#527"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Brush    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Brush-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Brush_Prefix-hjfhufnibrsfpravjologyxmoxyc/Brush_Prefix.pch.gch Brush_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318685434.561900
+e318685436.112897
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Brush_Prefix-hjfhufnibrsfpravjologyxmoxyc/Brush_Prefix.pch.gch
+xBrush_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Brush_Prefix.pch318685434#318685436#0(0"0(0#0#73"/Users/balancin/Documents/Projects/iPhone/20110205/Brush/Brush_Prefix.pch8639637952#1948"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Brush    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/Brush-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Brush.build/Debug-iphonesimulator/Brush.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Brush/Brush_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Brush_Prefix-hjfhufnibrsfpravjologyxmoxyc/Brush_Prefix.pch.gch0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/Brush/build/Debug-iphonesimulator/Brush.app
+r0
+

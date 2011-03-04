@@ -1,0 +1,524 @@
+TGPS
+v7
+r0
+t318711930.092727
+cCheck dependencies
+cCpResource build/Debug-iphoneos/GPS.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/Info.plist GPS-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/GPS/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPSViewController.xib
+cCopyPNGFile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/arrow.png arrow.png
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-bipbmhosievtabfildaihtsrjcsa/GPS_Prefix.pch.gch GPS_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-dzzheurjbuazxgabmqbpdcvgmqkp/GPS_Prefix.pch.gch GPS_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPSAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPSViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/Agulha.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPSAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPSViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/Agulha.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPS normal armv6
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPS normal armv7
+cCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPS normal "armv6 armv7"
+cGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPS
+cProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/embedded.mobileprovision
+cTouch /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS.xcent
+cCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D26BE130000000000000110
+t1294384659
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D23F20B00000000000001A7
+t1294201355
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D23F20B00000000000001E5
+t1294201355
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24088C0000000000353260
+t1294207116
+s3486304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D2415FC00000000000E21C0
+t1294210556
+s926144
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D2415DD00000000000001D0
+t1294210525
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D24090100000000003E22B0
+t1294207233
+s4072112
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2408E60000000000001466
+t1294207206
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004D241A0900000000000002FE
+t1294211593
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D241A3000000000002B3660
+t1294211632
+s2831968
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414B50000000000000AA1
+t1294210229
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D2415720000000000C9F420
+t1294210418
+s13235232
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.h
+c000000004D4EEF7F00000000000001E1
+t1297018751
+s481
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m
+c000000004D4EF00C0000000000000159
+t1297018892
+s345
+i"Agulha.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.h
+c000000004D4ED33600000000000001BD
+t1297011510
+s445
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m
+c000000004D4ED3360000000000000A8C
+t1297011510
+s2700
+i"GPSAppDelegate.h"
+i"GPSViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.h
+c000000004D4EF02C00000000000001DE
+t1297018924
+s478
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+i"Agulha.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m
+c000000004D4EF0F60000000000000B76
+t1297019126
+s2934
+i"GPSViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPSViewController.xib
+c000000004D4ED3360000000000001A35
+t1297011510
+s6709
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPS_Prefix.pch
+c000000004D4ED33600000000000000AF
+t1297011510
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/MainWindow.xib
+c000000004D4ED3360000000000004DF9
+t1297011510
+s19961
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/arrow.png
+c000000004D4ED94500000000000026ED
+t1297013061
+s9965
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app
+t1297019130
+s408
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app.dSYM
+t1297019129
+s102
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPS
+t1297019129
+s67232
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPSViewController.nib
+t1297011663
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/Info.plist
+t1297011661
+s759
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/MainWindow.nib
+t1297011663
+s1671
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/PkgInfo
+t1297011661
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/ResourceRules.plist
+t1297011661
+s485
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/arrow.png
+t1297013222
+s10503
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/embedded.mobileprovision
+t1297011666
+s10482
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS.xcent
+t1297011666
+s412
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/Agulha.o
+t1297019061
+s11568
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPS
+t1297019129
+s24340
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPS.LinkFileList
+c000000004D4EF0AE0000000000000209
+t1297019054
+s521
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPSAppDelegate.o
+t1297019061
+s51656
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPSViewController.o
+t1297019129
+s49648
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/main.o
+t1297011665
+s6480
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/Agulha.o
+t1297019061
+s11480
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPS
+t1297019129
+s24456
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPS.LinkFileList
+c000000004D4EF0AE0000000000000209
+t1297019054
+s521
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPSAppDelegate.o
+t1297019061
+s51544
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPSViewController.o
+t1297019129
+s49232
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/main.o
+t1297011665
+s6464
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m
+c000000004D4ED336000000000000015B
+t1297011510
+s347
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+c000000004D30458D00000000000028F2
+t1295009165
+s10482
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-bipbmhosievtabfildaihtsrjcsa/GPS_Prefix.pch.gch
+t1297011665
+s10184604
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-dzzheurjbuazxgabmqbpdcvgmqkp/GPS_Prefix.pch.gch
+t1297011665
+s10643356
+
+NGPS-Info.plist
+c000000004D4ED336000000000000038D
+t1297011510
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318711928#318711929#0(0"0(0#1#0"8932280992#0"0#
+
+CCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app
+s318711929.479074
+e318711930.092675
+r1
+xCodeSign
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app
+lSLF07#2@37"CodeSign build/Debug-iphoneos/GPS.app318711929#318711930#0(0"0(0#0#83"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app8947971808#694"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Fabio Balancin (3G649Y2ZVS)" --resource-rules=/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/ResourceRules.plist --entitlements /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS.xcent /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app0#
+
+CCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/Agulha.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318711854.553163
+e318711861.675776
+r1
+xCompileC
+xbuild/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/Agulha.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m: In function '-[Agulha initWithCoordinate:name:]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m:18: warning: local declaration of 'name' hides instance variable
+lSLF07#2@79"Compile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m318711854#318711861#0(260"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m: In function '-[Agulha initWithCoordinate:name:]':/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m:18: warning: local declaration of 'name' hides instance variable1(22@51"Local declaration of 'name' hides instance variable318711856#123#137#0(6@71"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m318711692#18#0#18#0#0"0(0#0#71"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m8942508768#1832"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-bipbmhosievtabfildaihtsrjcsa/GPS_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/Agulha.o0#
+
+CCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPSAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318711854.456321
+e318711861.731673
+r1
+xCompileC
+xbuild/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPSAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m318711854#318711861#0(0"0(0#0#79"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m8943837088#1848"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-bipbmhosievtabfildaihtsrjcsa/GPS_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPSAppDelegate.o0#
+
+CCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPSViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318711928.981258
+e318711929.150291
+r1
+xCompileC
+xbuild/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPSViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m318711928#318711929#0(0"0(0#0#82"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m8950199232#1854"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-bipbmhosievtabfildaihtsrjcsa/GPS_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPSViewController.o0#
+
+CCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318704465.481784
+e318704465.661233
+r1
+xCompileC
+xbuild/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m318704465#318704465#0(0"0(0#0#61"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m8883022432#1820"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-bipbmhosievtabfildaihtsrjcsa/GPS_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/Agulha.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318711861.675934
+e318711861.809745
+r1
+xCompileC
+xbuild/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/Agulha.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m: In function '-[Agulha initWithCoordinate:name:]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m:18: warning: local declaration of 'name' hides instance variable
+lSLF07#2@79"Compile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m318711861#318711861#0(260"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m: In function '-[Agulha initWithCoordinate:name:]':/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m:18: warning: local declaration of 'name' hides instance variable1(22@51"Local declaration of 'name' hides instance variable318711861#123#137#0(6@71"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m318711692#18#0#18#0#0"0(0#0#71"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m8936580896#1832"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-dzzheurjbuazxgabmqbpdcvgmqkp/GPS_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/Agulha.m -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/Agulha.o0#
+
+CCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPSAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318711856.046250
+e318711861.673848
+r1
+xCompileC
+xbuild/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPSAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m318711856#318711861#0(0"0(0#0#79"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m8936659360#1848"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-dzzheurjbuazxgabmqbpdcvgmqkp/GPS_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPSAppDelegate.o0#
+
+CCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPSViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318711929.043377
+e318711929.151746
+r1
+xCompileC
+xbuild/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPSViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m318711929#318711929#0(0"0(0#0#82"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m8950561216#1854"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-dzzheurjbuazxgabmqbpdcvgmqkp/GPS_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/GPS/Classes/GPSViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPSViewController.o0#
+
+CCompileC build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318704465.487490
+e318704465.650251
+r1
+xCompileC
+xbuild/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m318704465#318704465#0(0"0(0#0#61"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m8868397024#1820"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-dzzheurjbuazxgabmqbpdcvgmqkp/GPS_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/GPS/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPSViewController.xib
+s318704461.817447
+e318704463.193830
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPSViewController.xib
+lSLF07#2@32"CompileXIB GPSViewController.xib318704461#318704463#0(0"0(0#0#76"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPSViewController.xib8883616704#600"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPSViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPSViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/GPS/MainWindow.xib
+s318704461.816627
+e318704463.197935
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318704461#318704463#0(0"0(0#0#69"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/MainWindow.xib8884167136#586"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/GPS/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCopyPNGFile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/arrow.png arrow.png
+s318706021.900850
+e318706022.317385
+r1
+xCopyPNGFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/arrow.png
+xarrow.png
+lSLF07#2@60"CopyPNGFile build/Debug-iphoneos/GPS.app/arrow.png arrow.png318706021#318706022#0(0"0(0#0#64"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/arrow.png8886380160#602"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/balancin/Documents/Projects/iPhone/20110205/GPS/arrow.png /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/arrow.png0#
+
+CCpResource build/Debug-iphoneos/GPS.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s318704461.696835
+e318704461.816382
+r1
+xCpResource
+xbuild/Debug-iphoneos/GPS.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist318704461#318704461#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8884368256#522"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app0#
+
+CCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPS normal "armv6 armv7"
+s318711929.299012
+e318711929.311708
+r1
+xCreateUniversalBinary
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPS
+xnormal
+xarmv6 armv7
+lSLF07#2@75"CreateUniversalBinary build/Debug-iphoneos/GPS.app/GPS normal "armv6 armv7"318711929#318711929#0(0"0(0#0#66"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/armv6 armv78767575872#550"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPS /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPS -output /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPS0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPS
+s318711929.311829
+e318711929.476037
+r1
+xGenerateDSYMFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app.dSYM
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPS
+lSLF07#2@83"GenerateDSYMFile build/Debug-iphoneos/GPS.app.dSYM build/Debug-iphoneos/GPS.app/GPS318711929#318711929#0(0"0(0#0#87"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPS8949917760#398"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/GPS -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app.dSYM0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPS normal armv6
+s318711929.150388
+e318711929.224803
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPS
+xnormal
+xarmv6
+lSLF07#2@125"Link /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPS318711929#318711929#0(0"0(0#0#0"8938800352#957"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPS.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv6/GPS0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPS normal armv7
+s318711929.151841
+e318711929.298883
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPS
+xnormal
+xarmv7
+lSLF07#2@125"Link /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPS318711929#318711929#0(0"0(0#0#0"8950266976#957"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPS.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/Objects-normal/armv7/GPS0#
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/Info.plist GPS-Info.plist
+s318704461.762009
+e318704461.795049
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/Info.plist
+xGPS-Info.plist
+lSLF07#2@22"Process GPS-Info.plist318704461#318704461#0(0"0(0#0#69"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPS-Info.plist8884322272#610"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GPS-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/ResourceRules.plist -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-bipbmhosievtabfildaihtsrjcsa/GPS_Prefix.pch.gch GPS_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318704463.198262
+e318704465.423534
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-bipbmhosievtabfildaihtsrjcsa/GPS_Prefix.pch.gch
+xGPS_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile GPS_Prefix.pch318704463#318704465#0(0"0(0#0#69"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPS_Prefix.pch8892522048#1706"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPS_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-bipbmhosievtabfildaihtsrjcsa/GPS_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-dzzheurjbuazxgabmqbpdcvgmqkp/GPS_Prefix.pch.gch GPS_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318704463.199559
+e318704465.481649
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-dzzheurjbuazxgabmqbpdcvgmqkp/GPS_Prefix.pch.gch
+xGPS_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile GPS_Prefix.pch318704463#318704465#0(0"0(0#0#69"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPS_Prefix.pch8892333984#1706"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/GPS/GPS_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GPS_Prefix-dzzheurjbuazxgabmqbpdcvgmqkp/GPS_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/embedded.mobileprovision
+s318704466.455625
+e318704466.499007
+r1
+xProcessProductPackaging
+x/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/embedded.mobileprovision
+lSLF07#2@191"ProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" build/Debug-iphoneos/GPS.app/embedded.mobileprovision318704466#318704466#0(0"0(0#0#108"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/embedded.mobileprovision8892421984#454"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS.xcent
+s318704466.529197
+e318704466.552614
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS.xcent
+lSLF07#2@163"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/GPS.build/Debug-iphoneos/GPS.build/GPS.xcent318704466#318704466#0(0"0(0#0#105"/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS.xcent8850544704#452"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/GPS.build/Debug-iphoneos/GPS.build/GPS.xcent0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app
+s318711929.476227
+e318711929.478880
+r1
+xTouch
+x/Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app
+lSLF07#2@89"Touch /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app318711929#318711929#0(0"0(0#0#0"8949578528#292"    cd /Users/balancin/Documents/Projects/iPhone/20110205/GPS    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/balancin/Documents/Projects/iPhone/20110205/GPS/build/Debug-iphoneos/GPS.app0#
+

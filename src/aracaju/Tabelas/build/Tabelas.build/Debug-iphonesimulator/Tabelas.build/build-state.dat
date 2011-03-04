@@ -1,0 +1,352 @@
+TTabelas
+v7
+r0
+t318628435.520995
+cCheck dependencies
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Info.plist Tabelas-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib
+cCopyPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/spfc.plist spfc.plist
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-fpypvonrofzkszfmonazuxwwvyxc/Tabelas_Prefix.pch.gch Tabelas_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/TabelasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/TabelasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/ListaViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/DetalhesViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Tabelas normal i386
+cGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Tabelas
+cTouch /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D2416E60000000000000110
+t1294210790
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24066D0000000000298910
+t1294206573
+s2722064
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D2406C1000000000029DA10
+t1294206657
+s2742800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2406B40000000000001466
+t1294206644
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414D90000000000000AA1
+t1294210265
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D24154D00000000007651B0
+t1294210381
+s7754160
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.h
+c000000004D4D9FB30000000000000149
+t1296932787
+s329
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m
+c000000004D4DA33E0000000000000C84
+t1296933694
+s3204
+i"DetalhesViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.h
+c000000004D4D89D00000000000000150
+t1296927184
+s336
+i<UIKit/UIKit.h>
+i"DetalhesViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m
+c000000004D4DAAC3000000000000159A
+t1296935619
+s5530
+i"ListaViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.h
+c000000004D4D768800000000000001D5
+t1296922248
+s469
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m
+c000000004D4D76880000000000000AA0
+t1296922248
+s2720
+i"TabelasAppDelegate.h"
+i"TabelasViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.h
+c000000004D4D78470000000000000104
+t1296922695
+s260
+i<UIKit/UIKit.h>
+i"ListaViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m
+c000000004D4DA5A60000000000000B8A
+t1296934310
+s2954
+i"TabelasViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib
+c000000004D4D76880000000000004E29
+t1296922248
+s20009
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib
+c000000004D4D76880000000000001A45
+t1296922248
+s6725
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Tabelas_Prefix.pch
+c000000004D4D768800000000000000B7
+t1296922248
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app
+t1296935622
+s272
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app.dSYM
+t1296935622
+s102
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Info.plist
+t1296922757
+s591
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/MainWindow.nib
+t1296922757
+s1681
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/PkgInfo
+t1296922757
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Tabelas
+t1296935622
+s27460
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/TabelasViewController.nib
+t1296922757
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/spfc.plist
+t1296930924
+s145
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/DetalhesViewController.o
+t1296933700
+s49596
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/ListaViewController.o
+t1296935622
+s48544
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/Tabelas.LinkFileList
+c000000004D4D832B0000000000000306
+t1296925483
+s774
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/TabelasAppDelegate.o
+t1296932843
+s51308
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/TabelasViewController.o
+t1296934314
+s45308
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/main.o
+t1296922758
+s6352
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m
+c000000004D4D7688000000000000015F
+t1296922248
+s351
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/spfc.plist
+c000000004D4D97E60000000000000178
+t1296930790
+s376
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-fpypvonrofzkszfmonazuxwwvyxc/Tabelas_Prefix.pch.gch
+t1296922758
+s15809968
+
+NTabelas-Info.plist
+c000000004D4D7688000000000000038D
+t1296922248
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318628435#318628435#0(0"0(0#1#0"8636248352#0"0#
+
+CCompileC build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/DetalhesViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318626500.107268
+e318626500.213258
+r1
+xCompileC
+xbuild/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/DetalhesViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m: In function '-[DetalhesViewController textFieldShouldReturn:]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m:69: warning: 'DetalhesViewController' may not respond to '-gravar:'
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m:69: warning: (Messages without a matching method signature
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m:69: warning: will be assumed to return 'id' and accept
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m:69: warning: '...' as arguments.)
+lSLF07#2@99"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m318626500#318626500#0(741"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m: In function '-[DetalhesViewController textFieldShouldReturn:]':/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m:69: warning: 'DetalhesViewController' may not respond to '-gravar:'/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m:69: warning: (Messages without a matching method signature/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m:69: warning: will be assumed to return 'id' and accept/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m:69: warning: '...' as arguments.)2(22@54"'DetalhesViewController' may not respond to '-gravar:'318626500#157#160#0(6@91"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m318626494#69#0#69#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)318626500#317#151#0(6@91"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m318626494#69#0#69#0#0"0(0#0#91"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m8643382912#2178"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-fpypvonrofzkszfmonazuxwwvyxc/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/DetalhesViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/DetalhesViewController.o0#
+
+CCompileC build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/ListaViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318628422.483628
+e318628422.589868
+r1
+xCompileC
+xbuild/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/ListaViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m: In function '-[ListaViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m:179: warning: no '-initWithFruta:' method found
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m:179: warning: (Messages without a matching method signature
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m:179: warning: will be assumed to return 'id' and accept
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m:179: warning: '...' as arguments.)
+lSLF07#2@96"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m318628422#318628422#0(718"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m: In function '-[ListaViewController tableView:didSelectRowAtIndexPath:]':/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m:179: warning: no '-initWithFruta:' method found/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m:179: warning: (Messages without a matching method signature/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m:179: warning: will be assumed to return 'id' and accept/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m:179: warning: '...' as arguments.)2(22@33"No '-initWithFruta:' method found318628422#163#137#0(6@88"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m318628419#179#0#179#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)318628422#300#149#0(6@88"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m318628419#179#0#179#0#0"0(0#0#88"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m8664332128#2172"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-fpypvonrofzkszfmonazuxwwvyxc/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/ListaViewController.o0#
+
+CCompileC build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/TabelasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318625643.383867
+e318625643.496631
+r1
+xCompileC
+xbuild/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/TabelasAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m318625643#318625643#0(0"0(0#0#87"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m8637694336#2170"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-fpypvonrofzkszfmonazuxwwvyxc/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/TabelasAppDelegate.o0#
+
+CCompileC build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/TabelasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318627113.912116
+e318627114.015330
+r1
+xCompileC
+xbuild/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/TabelasViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m: In function '-[TabelasViewController viewDidLoad]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:54: warning: no '-initWithLista:' method found
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:54: warning: (Messages without a matching method signature
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:54: warning: will be assumed to return 'id' and accept
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:54: warning: '...' as arguments.)
+lSLF07#2@98"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m318627113#318627114#0(703"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m: In function '-[TabelasViewController viewDidLoad]':/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:54: warning: no '-initWithLista:' method found/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:54: warning: (Messages without a matching method signature/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:54: warning: will be assumed to return 'id' and accept/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:54: warning: '...' as arguments.)2(22@33"No '-initWithLista:' method found318627113#144#138#0(6@90"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m318627110#54#0#54#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)318627113#282#150#0(6@90"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m318627110#54#0#54#0#0"0(0#0#90"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m8669332096#2176"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-fpypvonrofzkszfmonazuxwwvyxc/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/TabelasViewController.o0#
+
+CCompileC build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318615558.457468
+e318615558.575016
+r1
+xCompileC
+xbuild/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m318615558#318615558#0(0"0(0#0#65"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m8648031616#2134"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-fpypvonrofzkszfmonazuxwwvyxc/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib
+s318615557.198785
+e318615557.597387
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318615557#318615557#0(0"0(0#0#73"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib8634902624#630"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib
+s318615557.199961
+e318615557.595946
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib
+lSLF07#2@36"CompileXIB TabelasViewController.xib318615557#318615557#0(0"0(0#0#84"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib8634034944#652"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/TabelasViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCopyPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/spfc.plist spfc.plist
+s318623724.743350
+e318623724.987578
+r1
+xCopyPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/spfc.plist
+xspfc.plist
+lSLF07#2@15"Copy spfc.plist318623724#318623724#0(0"0(0#0#69"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/spfc.plist8666174016#425"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 spfc.plist --outdir /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Tabelas
+s318628422.611549
+e318628422.628907
+r1
+xGenerateDSYMFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app.dSYM
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Tabelas
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Tabelas.app.dSYM build/Debug-iphonesimulator/Tabelas.app/Tabelas318628422#318628422#0(0"0(0#0#106"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Tabelas8662431360#443"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Tabelas -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app.dSYM0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Tabelas normal i386
+s318628422.589964
+e318628422.611456
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Tabelas
+xnormal
+xi386
+lSLF07#2@111"Link /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Tabelas318628422#318628422#0(0"0(0#0#0"8663596800#1000"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator -filelist /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Objects-normal/i386/Tabelas.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Tabelas0#
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Info.plist Tabelas-Info.plist
+s318615557.194763
+e318615557.198646
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Info.plist
+xTabelas-Info.plist
+lSLF07#2@26"Process Tabelas-Info.plist318615557#318615557#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Tabelas-Info.plist8638211712#539"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Tabelas-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-fpypvonrofzkszfmonazuxwwvyxc/Tabelas_Prefix.pch.gch Tabelas_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318615557.597479
+e318615558.457338
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-fpypvonrofzkszfmonazuxwwvyxc/Tabelas_Prefix.pch.gch
+xTabelas_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Tabelas_Prefix.pch318615557#318615558#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Tabelas_Prefix.pch8648378624#2006"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphonesimulator/Tabelas.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Tabelas_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-fpypvonrofzkszfmonazuxwwvyxc/Tabelas_Prefix.pch.gch0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app
+s318628422.628989
+e318628422.631278
+r1
+xTouch
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app
+lSLF07#2@104"Touch /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app318628422#318628422#0(0"0(0#0#0"8662081440#318"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphonesimulator/Tabelas.app0#
+

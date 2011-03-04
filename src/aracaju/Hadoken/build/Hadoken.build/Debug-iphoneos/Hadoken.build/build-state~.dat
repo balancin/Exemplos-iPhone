@@ -1,0 +1,474 @@
+THadoken
+v7
+r0
+t318687801.265169
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Hadoken.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Info.plist Hadoken-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/HadokenViewController.xib
+cCpResource build/Debug-iphoneos/Hadoken.app/hadoken.wav hadoken.wav
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-elfthmaaripuuwdkoopmboasxqoh/Hadoken_Prefix.pch.gch Hadoken_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-cexrtkuaemtdxcebzasyyloywavr/Hadoken_Prefix.pch.gch Hadoken_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/HadokenAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/HadokenViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/HadokenAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/HadokenViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/Hadoken normal armv7
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/Hadoken normal armv6
+cCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Hadoken normal "armv6 armv7"
+cGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Hadoken
+cProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/embedded.mobileprovision
+cTouch /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken.xcent
+cCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D26BE130000000000000110
+t1294384659
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D23F20B00000000000001A7
+t1294201355
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D23F20B00000000000001E5
+t1294201355
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004D2408AD0000000000453310
+t1294207149
+s4535056
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004D2408710000000000000A23
+t1294207089
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24088C0000000000353260
+t1294207116
+s3486304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000004D241611000000000011FF60
+t1294210577
+s1179488
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CoreMotion.h
+c000000004D2415FD00000000000001CB
+t1294210557
+s459
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D24090100000000003E22B0
+t1294207233
+s4072112
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2408E60000000000001466
+t1294207206
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414B50000000000000AA1
+t1294210229
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D2415720000000000C9F420
+t1294210418
+s13235232
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.h
+c000000004D4E8C5700000000000001D5
+t1296993367
+s469
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m
+c000000004D4E8C570000000000000AA0
+t1296993367
+s2720
+i"HadokenAppDelegate.h"
+i"HadokenViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.h
+c000000004D4E91C4000000000000017C
+t1296994756
+s380
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioToolbox.h>
+i<CoreMotion/CoreMotion.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m
+c000000004D4E92980000000000000923
+t1296994968
+s2339
+i"HadokenViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/HadokenViewController.xib
+c000000004D4E8C570000000000001A45
+t1296993367
+s6725
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Hadoken_Prefix.pch
+c000000004D4E8C5700000000000000B7
+t1296993367
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/MainWindow.xib
+c000000004D4E8C570000000000004E29
+t1296993367
+s20009
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app
+t1296995001
+s408
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app.dSYM
+t1296995000
+s102
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Hadoken
+t1296995000
+s51648
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/HadokenViewController.nib
+t1296994995
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Info.plist
+t1296994995
+s775
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/MainWindow.nib
+t1296994995
+s1681
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/PkgInfo
+t1296994995
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/ResourceRules.plist
+t1296994995
+s485
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/embedded.mobileprovision
+t1296995000
+s10482
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/hadoken.wav
+t1296994995
+s50284
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken.xcent
+t1296995000
+s420
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/Hadoken
+t1296995000
+s22824
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/Hadoken.LinkFileList
+c000000004D4E92B300000000000001B7
+t1296994995
+s439
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/HadokenAppDelegate.o
+t1296994998
+s51272
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/HadokenViewController.o
+t1296994998
+s44300
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/main.o
+t1296994998
+s6488
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/Hadoken
+t1296995000
+s22976
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/Hadoken.LinkFileList
+c000000004D4E92B300000000000001B7
+t1296994995
+s439
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/HadokenAppDelegate.o
+t1296994998
+s51160
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/HadokenViewController.o
+t1296994998
+s44132
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/main.o
+t1296994998
+s6472
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/hadoken.wav
+c000000003FFDCC92000000000000C46C
+t1073597586
+s50284
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m
+c000000004D4E8C57000000000000015F
+t1296993367
+s351
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+c000000004D30458D00000000000028F2
+t1295009165
+s10482
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-cexrtkuaemtdxcebzasyyloywavr/Hadoken_Prefix.pch.gch
+t1296994998
+s10643356
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-elfthmaaripuuwdkoopmboasxqoh/Hadoken_Prefix.pch.gch
+t1296994998
+s10184604
+
+NHadoken-Info.plist
+c000000004D4E8C57000000000000038D
+t1296993367
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318687795#318687795#0(0"0(0#1#0"8654547040#0"0#
+
+CCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app
+s318687800.566596
+e318687801.265117
+r1
+xCodeSign
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/Hadoken.app318687800#318687801#0(0"0(0#0#91"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app8637721856#730"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Fabio Balancin (3G649Y2ZVS)" --resource-rules=/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/ResourceRules.plist --entitlements /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken.xcent /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app0#
+
+CCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/HadokenAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318687798.615402
+e318687798.910006
+r1
+xCompileC
+xbuild/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/HadokenAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m318687798#318687798#0(0"0(0#0#87"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m8652064352#1980"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-elfthmaaripuuwdkoopmboasxqoh/Hadoken_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/HadokenAppDelegate.o0#
+
+CCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/HadokenViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318687798.616765
+e318687798.907926
+r1
+xCompileC
+xbuild/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/HadokenViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m: In function '-[HadokenViewController viewDidLoad]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m:48: warning: unused variable 'timer'
+lSLF07#2@98"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m318687798#318687798#0(272"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m: In function '-[HadokenViewController viewDidLoad]':/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m:48: warning: unused variable 'timer'1(22@23"Unused variable 'timer'318687798#144#128#0(6@90"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m318687768#48#0#48#0#19"unused variable '*'0(0#0#90"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m8653748128#1986"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-elfthmaaripuuwdkoopmboasxqoh/Hadoken_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/HadokenViewController.o0#
+
+CCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318687798.613809
+e318687798.797830
+r1
+xCompileC
+xbuild/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m318687798#318687798#0(0"0(0#0#65"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m8619985760#1944"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-elfthmaaripuuwdkoopmboasxqoh/Hadoken_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/HadokenAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318687798.797969
+e318687798.901212
+r1
+xCompileC
+xbuild/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/HadokenAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m318687798#318687798#0(0"0(0#0#87"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m8657293920#1980"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-cexrtkuaemtdxcebzasyyloywavr/Hadoken_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/HadokenAppDelegate.o0#
+
+CCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/HadokenViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318687798.799235
+e318687798.908850
+r1
+xCompileC
+xbuild/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/HadokenViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m: In function '-[HadokenViewController viewDidLoad]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m:48: warning: unused variable 'timer'
+lSLF07#2@98"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m318687798#318687798#0(272"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m: In function '-[HadokenViewController viewDidLoad]':/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m:48: warning: unused variable 'timer'1(22@23"Unused variable 'timer'318687798#144#128#0(6@90"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m318687768#48#0#48#0#19"unused variable '*'0(0#0#90"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m8656476256#1986"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-cexrtkuaemtdxcebzasyyloywavr/Hadoken_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/HadokenViewController.o0#
+
+CCompileC build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318687798.618453
+e318687798.799135
+r1
+xCompileC
+xbuild/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m318687798#318687798#0(0"0(0#0#65"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m8652267456#1944"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-cexrtkuaemtdxcebzasyyloywavr/Hadoken_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/HadokenViewController.xib
+s318687795.377005
+e318687795.764493
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/HadokenViewController.xib
+lSLF07#2@36"CompileXIB HadokenViewController.xib318687795#318687795#0(0"0(0#0#84"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/HadokenViewController.xib8655042208#624"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/HadokenViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/HadokenViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/MainWindow.xib
+s318687795.376248
+e318687795.770194
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318687795#318687795#0(0"0(0#0#73"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/MainWindow.xib8656373152#602"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/Hadoken.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s318687795.331287
+e318687795.376149
+r1
+xCpResource
+xbuild/Debug-iphoneos/Hadoken.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist318687795#318687795#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist5922070114188801024#534"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app0#
+
+CCpResource build/Debug-iphoneos/Hadoken.app/hadoken.wav hadoken.wav
+s318687795.377620
+e318687795.383526
+r1
+xCpResource
+xbuild/Debug-iphoneos/Hadoken.app/hadoken.wav
+xhadoken.wav
+lSLF07#2@16"Copy hadoken.wav318687795#318687795#0(0"0(0#0#70"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/hadoken.wav8654572544#515"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/hadoken.wav /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app0#
+
+CCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Hadoken normal "armv6 armv7"
+s318687800.444297
+e318687800.491071
+r1
+xCreateUniversalBinary
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Hadoken
+xnormal
+xarmv6 armv7
+lSLF07#2@83"CreateUniversalBinary build/Debug-iphoneos/Hadoken.app/Hadoken normal "armv6 armv7"318687800#318687800#0(0"0(0#0#70"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/armv6 armv78652320288#598"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/Hadoken /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/Hadoken -output /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Hadoken0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Hadoken
+s318687800.491177
+e318687800.514659
+r1
+xGenerateDSYMFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app.dSYM
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Hadoken
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/Hadoken.app.dSYM build/Debug-iphoneos/Hadoken.app/Hadoken318687800#318687800#0(0"0(0#0#99"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Hadoken8651682720#422"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Hadoken -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app.dSYM0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/Hadoken normal armv6
+s318687798.910090
+e318687800.444150
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/Hadoken
+xnormal
+xarmv6
+lSLF07#2@141"Link /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/Hadoken318687798#318687800#0(0"0(0#0#0"8652801664#1005"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/Hadoken.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework CoreMotion -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv6/Hadoken0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/Hadoken normal armv7
+s318687798.908944
+e318687800.443472
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/Hadoken
+xnormal
+xarmv7
+lSLF07#2@141"Link /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/Hadoken318687798#318687800#0(0"0(0#0#0"8654002464#1005"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/Hadoken.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework CoreMotion -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Objects-normal/armv7/Hadoken0#
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Info.plist Hadoken-Info.plist
+s318687795.332173
+e318687795.336591
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Info.plist
+xHadoken-Info.plist
+lSLF07#2@26"Process Hadoken-Info.plist318687795#318687795#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Hadoken-Info.plist8652463840#642"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Hadoken-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/ResourceRules.plist -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-cexrtkuaemtdxcebzasyyloywavr/Hadoken_Prefix.pch.gch Hadoken_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318687795.771300
+e318687798.613666
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-cexrtkuaemtdxcebzasyyloywavr/Hadoken_Prefix.pch.gch
+xHadoken_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Hadoken_Prefix.pch318687795#318687798#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Hadoken_Prefix.pch8654557152#1822"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Hadoken_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-cexrtkuaemtdxcebzasyyloywavr/Hadoken_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-elfthmaaripuuwdkoopmboasxqoh/Hadoken_Prefix.pch.gch Hadoken_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318687795.770339
+e318687798.487556
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-elfthmaaripuuwdkoopmboasxqoh/Hadoken_Prefix.pch.gch
+xHadoken_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Hadoken_Prefix.pch318687795#318687798#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Hadoken_Prefix.pch8655255424#1822"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Hadoken_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hadoken_Prefix-elfthmaaripuuwdkoopmboasxqoh/Hadoken_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/embedded.mobileprovision
+s318687800.514764
+e318687800.546142
+r1
+xProcessProductPackaging
+x/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/embedded.mobileprovision
+lSLF07#2@195"ProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" build/Debug-iphoneos/Hadoken.app/embedded.mobileprovision318687800#318687800#0(0"0(0#0#116"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/embedded.mobileprovision8619712096#466"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken.xcent
+s318687800.550731
+e318687800.566492
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken.xcent318687800#318687800#0(0"0(0#0#121"/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken.xcent8639546016#472"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Hadoken.build/Debug-iphoneos/Hadoken.build/Hadoken.xcent0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app
+s318687800.546233
+e318687800.550623
+r1
+xTouch
+x/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app
+lSLF07#2@97"Touch /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app318687800#318687800#0(0"0(0#0#0"8647197600#304"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/build/Debug-iphoneos/Hadoken.app0#
+

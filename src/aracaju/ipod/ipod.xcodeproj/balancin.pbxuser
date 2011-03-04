@@ -1,0 +1,164 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ipod */ = {
+		activeExec = 0;
+		executables = (
+			93309E0E12FEFEC300194691 /* ipod */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ipodViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1482, 710}}";
+			sepNavSelRange = "{193, 0}";
+			sepNavVisRange = "{0, 255}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ipodViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1540, 1848}}";
+			sepNavSelRange = "{1497, 0}";
+			sepNavVisRange = "{798, 998}";
+			sepNavWindowFrame = "{{36, -16}, {1440, 824}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 93309E0E12FEFEC300194691 /* ipod */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ipod */;
+		codeSenseManager = 93309E1912FEFEE700194691 /* Code sense */;
+		executables = (
+			93309E0E12FEFEC300194691 /* ipod */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1304,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1264,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318701251;
+			PBXWorkspaceStateSaveDate = 318701251;
+		};
+		perUserProjectItems = {
+			93309E3E12FF000600194691 /* PBXTextBookmark */ = 93309E3E12FF000600194691 /* PBXTextBookmark */;
+			93309E5A12FF052100194691 /* PBXTextBookmark */ = 93309E5A12FF052100194691 /* PBXTextBookmark */;
+			93309E8112FF0AA000194691 /* PBXTextBookmark */ = 93309E8112FF0AA000194691 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 93309E1812FEFEE700194691 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	93309E0E12FEFEC300194691 /* ipod */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ipod;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	93309E1812FEFEE700194691 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	93309E1912FEFEE700194691 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	93309E3E12FF000600194691 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ipodViewController.h */;
+		name = "ipodViewController.h: 11";
+		rLen = 0;
+		rLoc = 193;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	93309E5A12FF052100194691 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ipodViewController.m */;
+		name = "ipodViewController.m: 53";
+		rLen = 0;
+		rLoc = 1199;
+		rType = 0;
+		vrLen = 169;
+		vrLoc = 1183;
+	};
+	93309E8112FF0AA000194691 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ipodViewController.m */;
+		name = "ipodViewController.m: 58";
+		rLen = 0;
+		rLoc = 1497;
+		rType = 0;
+		vrLen = 998;
+		vrLoc = 798;
+	};
+}

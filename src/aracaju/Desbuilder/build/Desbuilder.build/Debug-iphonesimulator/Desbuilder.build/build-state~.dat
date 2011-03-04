@@ -1,0 +1,256 @@
+TDesbuilder
+v7
+r0
+t318690875.731024
+cCheck dependencies
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Info.plist Desbuilder-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/DesbuilderViewController.xib
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Desbuilder_Prefix-auffjwiuwrebmmacezyjdkblbtfj/Desbuilder_Prefix.pch.gch Desbuilder_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/DesbuilderAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/DesbuilderViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Desbuilder normal i386
+cGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Desbuilder
+cTouch /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D2416E60000000000000110
+t1294210790
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24066D0000000000298910
+t1294206573
+s2722064
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D2406C1000000000029DA10
+t1294206657
+s2742800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2406B40000000000001466
+t1294206644
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414D90000000000000AA1
+t1294210265
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D24154D00000000007651B0
+t1294210381
+s7754160
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderAppDelegate.h
+c000000004D4E9E4300000000000001E7
+t1296997955
+s487
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderAppDelegate.m
+c000000004D4E9E430000000000000AAF
+t1296997955
+s2735
+i"DesbuilderAppDelegate.h"
+i"DesbuilderViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderViewController.h
+c000000004D4E9E4300000000000000ED
+t1296997955
+s237
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderViewController.m
+c000000004D4E9E4300000000000005C3
+t1296997955
+s1475
+i"DesbuilderViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/DesbuilderViewController.xib
+c000000004D4E9EAD0000000000004B90
+t1296998061
+s19344
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Desbuilder_Prefix.pch
+c000000004D4E9E4300000000000000BD
+t1296997955
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/MainWindow.xib
+c000000004D4E9E430000000000004E4D
+t1296997955
+s20045
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app
+t1296998075
+s238
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app.dSYM
+t1296998075
+s102
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Desbuilder
+t1296998075
+s17360
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/DesbuilderViewController.nib
+t1296998073
+s3214
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Info.plist
+t1296998073
+s603
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/MainWindow.nib
+t1296998073
+s1687
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/PkgInfo
+t1296998073
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/Desbuilder.LinkFileList
+c000000004D4E9EB900000000000001EA
+t1296998073
+s490
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/DesbuilderAppDelegate.o
+t1296998075
+s51484
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/DesbuilderViewController.o
+t1296998075
+s38008
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/main.o
+t1296998075
+s6356
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/main.m
+c000000004D4E9E430000000000000162
+t1296997955
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Desbuilder_Prefix-auffjwiuwrebmmacezyjdkblbtfj/Desbuilder_Prefix.pch.gch
+t1296998075
+s15809968
+
+NDesbuilder-Info.plist
+c000000004D4E9E43000000000000038D
+t1296997955
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318690873#318690873#0(0"0(0#1#0"8756789568#0"0#
+
+CCompileC build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/DesbuilderAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318690875.299655
+e318690875.437313
+r1
+xCompileC
+xbuild/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/DesbuilderAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderAppDelegate.m318690875#318690875#0(0"0(0#0#93"/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderAppDelegate.m8756642784#2269"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Desbuilder_Prefix-auffjwiuwrebmmacezyjdkblbtfj/Desbuilder_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/DesbuilderAppDelegate.o0#
+
+CCompileC build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/DesbuilderViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318690875.301003
+e318690875.427927
+r1
+xCompileC
+xbuild/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/DesbuilderViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderViewController.m318690875#318690875#0(0"0(0#0#96"/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderViewController.m8756360064#2275"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Desbuilder_Prefix-auffjwiuwrebmmacezyjdkblbtfj/Desbuilder_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Classes/DesbuilderViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/DesbuilderViewController.o0#
+
+CCompileC build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318690875.260998
+e318690875.419199
+r1
+xCompileC
+xbuild/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/main.m318690875#318690875#0(0"0(0#0#68"/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/main.m8757047776#2227"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Desbuilder_Prefix-auffjwiuwrebmmacezyjdkblbtfj/Desbuilder_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/DesbuilderViewController.xib
+s318690873.496863
+e318690873.938131
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/DesbuilderViewController.xib
+lSLF07#2@39"CompileXIB DesbuilderViewController.xib318690873#318690873#0(0"0(0#0#90"/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/DesbuilderViewController.xib8755992416#670"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/DesbuilderViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/DesbuilderViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/MainWindow.xib
+s318690873.477666
+e318690873.894864
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318690873#318690873#0(0"0(0#0#76"/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/MainWindow.xib8756069952#642"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Desbuilder
+s318690875.628186
+e318690875.685158
+r1
+xGenerateDSYMFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app.dSYM
+x/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Desbuilder
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Desbuilder.app.dSYM build/Debug-iphonesimulator/Desbuilder.app/Desbuilder318690875#318690875#0(0"0(0#0#115"/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Desbuilder8755558176#461"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Desbuilder -o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app.dSYM0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Desbuilder normal i386
+s318690875.437407
+e318690875.628089
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Desbuilder
+xnormal
+xi386
+lSLF07#2@120"Link /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Desbuilder318690875#318690875#0(0"0(0#0#0"8756741312#1030"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator -F/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator -filelist /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Objects-normal/i386/Desbuilder.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Desbuilder0#
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Info.plist Desbuilder-Info.plist
+s318690873.470646
+e318690873.477530
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Info.plist
+xDesbuilder-Info.plist
+lSLF07#2@29"Process Desbuilder-Info.plist318690873#318690873#0(0"0(0#0#83"/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Desbuilder-Info.plist8756257056#557"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Desbuilder-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Desbuilder_Prefix-auffjwiuwrebmmacezyjdkblbtfj/Desbuilder_Prefix.pch.gch Desbuilder_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318690873.938332
+e318690875.260732
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Desbuilder_Prefix-auffjwiuwrebmmacezyjdkblbtfj/Desbuilder_Prefix.pch.gch
+xDesbuilder_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Desbuilder_Prefix.pch318690873#318690875#0(0"0(0#0#83"/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Desbuilder_Prefix.pch8756978624#2093"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/Desbuilder-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Desbuilder.build/Debug-iphonesimulator/Desbuilder.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/Desbuilder_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Desbuilder_Prefix-auffjwiuwrebmmacezyjdkblbtfj/Desbuilder_Prefix.pch.gch0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app
+s318690875.685239
+e318690875.730845
+r1
+xTouch
+x/Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app
+lSLF07#2@110"Touch /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app318690875#318690875#0(0"0(0#0#0"8755403712#327"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/balancin/Documents/Projects/iPhone/20110205/Desbuilder/build/Debug-iphonesimulator/Desbuilder.app0#
+

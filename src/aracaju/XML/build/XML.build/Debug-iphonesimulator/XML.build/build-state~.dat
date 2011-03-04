@@ -1,0 +1,272 @@
+TXML
+v7
+r0
+t318699455.412706
+cCheck dependencies
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/Info.plist XML-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/XML/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/XML/XMLViewController.xib
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XML_Prefix-gzztxwdmnwohuzbuccstqsonovbx/XML_Prefix.pch.gch XML_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/XML/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLParse.o /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLParse.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D2416E60000000000000110
+t1294210790
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24066D0000000000298910
+t1294206573
+s2722064
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D2406C1000000000029DA10
+t1294206657
+s2742800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2406B40000000000001466
+t1294206644
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414D90000000000000AA1
+t1294210265
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D24154D00000000007651B0
+t1294210381
+s7754160
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLAppDelegate.h
+c000000004D4EA53600000000000001BD
+t1296999734
+s445
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLAppDelegate.m
+c000000004D4EA5360000000000000A8C
+t1296999734
+s2700
+i"XMLAppDelegate.h"
+i"XMLViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLParse.h
+c000000004D4EBFDD0000000000000112
+t1297006557
+s274
+i<Foundation/Foundation.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLParse.m
+c000000004D4EC02E0000000000000216
+t1297006638
+s534
+i"XMLParse.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.h
+c000000004D4EA53600000000000000D8
+t1296999734
+s216
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m
+c000000004D4EBF5F0000000000000765
+t1297006431
+s1893
+i"XMLViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/MainWindow.xib
+c000000004D4EA5360000000000004DF9
+t1296999734
+s19961
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/XMLViewController.xib
+c000000004D4EA5360000000000001A35
+t1296999734
+s6709
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/XML_Prefix.pch
+c000000004D4EA53600000000000000AF
+t1296999734
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app.dSYM
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/Info.plist
+t1297006653
+s575
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/MainWindow.nib
+t1297006654
+s1671
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/PkgInfo
+t1297006653
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/XML
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/XMLViewController.nib
+t1297006653
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XML.LinkFileList
+c000000004D4EC03D0000000000000223
+t1297006653
+s547
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLAppDelegate.o
+t1297006655
+s51072
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLParse.o
+t1297006655
+s10632
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLViewController.o
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/main.o
+t1297006655
+s6344
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/XML/main.m
+c000000004D4EA536000000000000015B
+t1296999734
+s347
+i<UIKit/UIKit.h>
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XML_Prefix-gzztxwdmnwohuzbuccstqsonovbx/XML_Prefix.pch.gch
+t1297006655
+s15809968
+
+NXML-Info.plist
+c000000004D4EA536000000000000038D
+t1296999734
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318699453#318699453#0(0"0(0#1#0"8739167136#0"0#
+
+CCompileC build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318699455.260309
+e318699455.412561
+r1
+xCompileC
+xbuild/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLAppDelegate.m318699455#318699455#0(0"0(0#0#79"/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLAppDelegate.m8736799648#2038"    cd /Users/balancin/Documents/Projects/iPhone/20110205/XML    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XML_Prefix-gzztxwdmnwohuzbuccstqsonovbx/XML_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLAppDelegate.o0#
+
+CCompileC build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLParse.o /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLParse.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318699455.263328
+e318699455.400730
+r1
+xCompileC
+xbuild/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLParse.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLParse.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLParse.m318699455#318699455#0(0"0(0#0#73"/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLParse.m8774909728#2026"    cd /Users/balancin/Documents/Projects/iPhone/20110205/XML    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XML_Prefix-gzztxwdmnwohuzbuccstqsonovbx/XML_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLParse.m -o /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLParse.o0#
+
+CCompileC build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318699455.261600
+e318699455.369463
+r0
+xCompileC
+xbuild/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m: In function '-[XMLViewController viewDidLoad]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:42: warning: passing argument 2 of 'sendSynchronousRequest:returningResponse:error:' from incompatible pointer type
+o/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:42: warning: passing argument 3 of 'sendSynchronousRequest:returningResponse:error:' from incompatible pointer type
+o/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:46: error: 'XMLParse' undeclared (first use in this function)
+o/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:46: error: (Each undeclared identifier is reported only once
+o/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:46: error: for each function it appears in.)
+o/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:46: error: 'xmlDelegate' undeclared (first use in this function)
+lSLF07#2@90"Compile /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m318699455#318699455#0(1095"/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m: In function '-[XMLViewController viewDidLoad]':/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:42: warning: passing argument 2 of 'sendSynchronousRequest:returningResponse:error:' from incompatible pointer type/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:42: warning: passing argument 3 of 'sendSynchronousRequest:returningResponse:error:' from incompatible pointer type/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:46: error: 'XMLParse' undeclared (first use in this function)/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:46: error: (Each undeclared identifier is reported only once/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:46: error: for each function it appears in.)/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m:46: error: 'xmlDelegate' undeclared (first use in this function)4(22@102"Passing argument 2 of 'sendSynchronousRequest:returningResponse:error:' from incompatible pointer type318699455#132#199#0(6@82"/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m318699231#42#0#42#0#56"passing argument * of '*' from incompatible pointer type0(22@102"Passing argument 3 of 'sendSynchronousRequest:returningResponse:error:' from incompatible pointer type318699455#331#199#0(6@82"/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m318699231#42#0#42#0#56"passing argument * of '*' from incompatible pointer type0(4@50"'XMLParse' undeclared (first use in this function)318699455#530#145#0(6@82"/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m318699231#46#0#46#0#43"'*' undeclared (first use in this function)0(4@53"'xmlDelegate' undeclared (first use in this function)318699455#947#148#0(6@82"/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m318699231#46#0#46#0#43"'*' undeclared (first use in this function)0(0#0#82"/Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m8775265952#2044"    cd /Users/balancin/Documents/Projects/iPhone/20110205/XML    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XML_Prefix-gzztxwdmnwohuzbuccstqsonovbx/XML_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/XML/Classes/XMLViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/XMLViewController.o1#
+
+CCompileC build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/XML/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318699455.258949
+e318699455.388232
+r1
+xCompileC
+xbuild/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/XML/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/balancin/Documents/Projects/iPhone/20110205/XML/main.m318699455#318699455#0(0"0(0#0#61"/Users/balancin/Documents/Projects/iPhone/20110205/XML/main.m8739800512#2010"    cd /Users/balancin/Documents/Projects/iPhone/20110205/XML    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XML_Prefix-gzztxwdmnwohuzbuccstqsonovbx/XML_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/XML/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/XML/MainWindow.xib
+s318699453.546498
+e318699454.025689
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/XML/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318699453#318699454#0(0"0(0#0#69"/Users/balancin/Documents/Projects/iPhone/20110205/XML/MainWindow.xib8755725632#614"    cd /Users/balancin/Documents/Projects/iPhone/20110205/XML    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/XML/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/XML/XMLViewController.xib
+s318699453.643588
+e318699454.011755
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/XML/XMLViewController.xib
+lSLF07#2@32"CompileXIB XMLViewController.xib318699453#318699454#0(0"0(0#0#76"/Users/balancin/Documents/Projects/iPhone/20110205/XML/XMLViewController.xib8754180096#628"    cd /Users/balancin/Documents/Projects/iPhone/20110205/XML    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/XMLViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/XML/XMLViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/XML
+r0
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/XML normal i386
+r0
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/Info.plist XML-Info.plist
+s318699453.541558
+e318699453.546401
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/Info.plist
+xXML-Info.plist
+lSLF07#2@22"Process XML-Info.plist318699453#318699453#0(0"0(0#0#69"/Users/balancin/Documents/Projects/iPhone/20110205/XML/XML-Info.plist8763886720#515"    cd /Users/balancin/Documents/Projects/iPhone/20110205/XML    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility XML-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XML_Prefix-gzztxwdmnwohuzbuccstqsonovbx/XML_Prefix.pch.gch XML_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318699454.025812
+e318699455.258657
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XML_Prefix-gzztxwdmnwohuzbuccstqsonovbx/XML_Prefix.pch.gch
+xXML_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile XML_Prefix.pch318699454#318699455#0(0"0(0#0#69"/Users/balancin/Documents/Projects/iPhone/20110205/XML/XML_Prefix.pch8767410336#1890"    cd /Users/balancin/Documents/Projects/iPhone/20110205/XML    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/XML-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/XML/build/XML.build/Debug-iphonesimulator/XML.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/XML/XML_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/XML_Prefix-gzztxwdmnwohuzbuccstqsonovbx/XML_Prefix.pch.gch0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/XML/build/Debug-iphonesimulator/XML.app
+r0
+

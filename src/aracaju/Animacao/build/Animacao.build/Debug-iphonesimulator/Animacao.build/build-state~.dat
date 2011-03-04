@@ -1,0 +1,256 @@
+TAnimacao
+v7
+r0
+t318611230.625169
+cCheck dependencies
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Info.plist Animacao-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/AnimacaoViewController.xib
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animacao_Prefix-bgdudyvqjygvynbnikwodiyxhwdd/Animacao_Prefix.pch.gch Animacao_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/AnimacaoAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/AnimacaoViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Animacao normal i386
+cGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Animacao
+cTouch /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D2416E60000000000000110
+t1294210790
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24066D0000000000298910
+t1294206573
+s2722064
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D2406C1000000000029DA10
+t1294206657
+s2742800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2406B40000000000001466
+t1294206644
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414D90000000000000AA1
+t1294210265
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D24154D00000000007651B0
+t1294210381
+s7754160
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/AnimacaoViewController.xib
+c000000004D4D66970000000000001A49
+t1296918167
+s6729
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Animacao_Prefix.pch
+c000000004D4D669700000000000000B9
+t1296918167
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoAppDelegate.h
+c000000004D4D669700000000000001DB
+t1296918167
+s475
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoAppDelegate.m
+c000000004D4D66970000000000000AA5
+t1296918167
+s2725
+i"AnimacaoAppDelegate.h"
+i"AnimacaoViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.h
+c000000004D4D669700000000000000E7
+t1296918167
+s231
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.m
+c000000004D4D67630000000000000655
+t1296918371
+s1621
+i"AnimacaoViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/MainWindow.xib
+c000000004D4D66970000000000004E35
+t1296918167
+s20021
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/Animacao.LinkFileList
+c000000004D4D679C00000000000001D4
+t1296918428
+s468
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/AnimacaoAppDelegate.o
+t1296918430
+s51368
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/AnimacaoViewController.o
+t1296918430
+s40360
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/main.o
+t1296918430
+s6352
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app
+t1296918430
+s238
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app.dSYM
+t1296918430
+s102
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Animacao
+t1296918430
+s17748
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/AnimacaoViewController.nib
+t1296918429
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Info.plist
+t1296918428
+s595
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/MainWindow.nib
+t1296918429
+s1683
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/PkgInfo
+t1296918428
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/main.m
+c000000004D4D66970000000000000160
+t1296918167
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animacao_Prefix-bgdudyvqjygvynbnikwodiyxhwdd/Animacao_Prefix.pch.gch
+t1296918430
+s15809968
+
+NAnimacao-Info.plist
+c000000004D4D6697000000000000038D
+t1296918167
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318611228#318611228#0(0"0(0#1#0"8620603168#0"0#
+
+CCompileC build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/AnimacaoAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318611230.449877
+e318611230.573270
+r1
+xCompileC
+xbuild/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/AnimacaoAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoAppDelegate.m318611230#318611230#0(0"0(0#0#89"/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoAppDelegate.m8637440192#2203"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animacao_Prefix-bgdudyvqjygvynbnikwodiyxhwdd/Animacao_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/AnimacaoAppDelegate.o0#
+
+CCompileC build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/AnimacaoViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318611230.450839
+e318611230.566957
+r1
+xCompileC
+xbuild/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/AnimacaoViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.m318611230#318611230#0(0"0(0#0#92"/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.m8635231008#2209"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animacao_Prefix-bgdudyvqjygvynbnikwodiyxhwdd/Animacao_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/AnimacaoViewController.o0#
+
+CCompileC build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318611230.448712
+e318611230.553943
+r1
+xCompileC
+xbuild/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/main.m318611230#318611230#0(0"0(0#0#66"/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/main.m8636185184#2165"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animacao_Prefix-bgdudyvqjygvynbnikwodiyxhwdd/Animacao_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/AnimacaoViewController.xib
+s318611228.987189
+e318611229.350013
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/AnimacaoViewController.xib
+lSLF07#2@37"CompileXIB AnimacaoViewController.xib318611228#318611229#0(0"0(0#0#86"/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/AnimacaoViewController.xib8633228640#658"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/AnimacaoViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/AnimacaoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/MainWindow.xib
+s318611228.986224
+e318611229.355218
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318611228#318611229#0(0"0(0#0#74"/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/MainWindow.xib8635087328#634"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Animacao
+s318611230.605459
+e318611230.622493
+r1
+xGenerateDSYMFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app.dSYM
+x/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Animacao
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Animacao.app.dSYM build/Debug-iphonesimulator/Animacao.app/Animacao318611230#318611230#0(0"0(0#0#109"/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Animacao8613409600#449"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Animacao -o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app.dSYM0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Animacao normal i386
+s318611230.573350
+e318611230.605331
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Animacao
+xnormal
+xi386
+lSLF07#2@114"Link /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Animacao318611230#318611230#0(0"0(0#0#0"8632735584#1010"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator -F/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator -filelist /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Objects-normal/i386/Animacao.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Animacao0#
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Info.plist Animacao-Info.plist
+s318611228.982368
+e318611228.986027
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Info.plist
+xAnimacao-Info.plist
+lSLF07#2@27"Process Animacao-Info.plist318611228#318611228#0(0"0(0#0#79"/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Animacao-Info.plist8636202656#545"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Animacao-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animacao_Prefix-bgdudyvqjygvynbnikwodiyxhwdd/Animacao_Prefix.pch.gch Animacao_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318611229.355402
+e318611230.448582
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animacao_Prefix-bgdudyvqjygvynbnikwodiyxhwdd/Animacao_Prefix.pch.gch
+xAnimacao_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Animacao_Prefix.pch318611229#318611230#0(0"0(0#0#79"/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Animacao_Prefix.pch8634319840#2035"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/Animacao-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Animacao.build/Debug-iphonesimulator/Animacao.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Animacao_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animacao_Prefix-bgdudyvqjygvynbnikwodiyxhwdd/Animacao_Prefix.pch.gch0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app
+s318611230.622576
+e318611230.625144
+r1
+xTouch
+x/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app
+lSLF07#2@106"Touch /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app318611230#318611230#0(0"0(0#0#0"8613287232#321"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Animacao    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/balancin/Documents/Projects/iPhone/20110205/Animacao/build/Debug-iphonesimulator/Animacao.app0#
+

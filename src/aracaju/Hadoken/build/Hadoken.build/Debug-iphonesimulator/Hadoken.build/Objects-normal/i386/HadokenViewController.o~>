@@ -1,0 +1,2 @@
+/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m: In function '-[HadokenViewController viewDidLoad]':
+/Users/balancin/Documents/Projects/iPhone/20110205/Hadoken/Classes/HadokenViewController.m:48: warning: unused variable 'timer'

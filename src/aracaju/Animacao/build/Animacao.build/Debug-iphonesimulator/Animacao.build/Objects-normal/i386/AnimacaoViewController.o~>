@@ -1,0 +1,4 @@
+/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.m: In function '-[AnimacaoViewController touchesBegan:withEvent:]':
+/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.m:63: warning: unused variable 'size'
+/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.m: In function '-[AnimacaoViewController touchesMoved:withEvent:]':
+/Users/balancin/Documents/Projects/iPhone/20110205/Animacao/Classes/AnimacaoViewController.m:74: warning: unused variable 'ponto'

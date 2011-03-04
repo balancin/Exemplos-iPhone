@@ -1,0 +1,444 @@
+TTabelas
+v7
+r0
+t318615478.943622
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Tabelas.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/Info.plist Tabelas-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-alulgvqplqsyrxgicmszksrphcpx/Tabelas_Prefix.pch.gch Tabelas_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-ccrtktqnylndbigprxzfeiejrkuz/Tabelas_Prefix.pch.gch Tabelas_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/TabelasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/TabelasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/ListaViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/TabelasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/TabelasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/ListaViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/embedded.mobileprovision
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas.xcent
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D26BE130000000000000110
+t1294384659
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D23F20B00000000000001A7
+t1294201355
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D23F20B00000000000001E5
+t1294201355
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24088C0000000000353260
+t1294207116
+s3486304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D24090100000000003E22B0
+t1294207233
+s4072112
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2408E60000000000001466
+t1294207206
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414B50000000000000AA1
+t1294210229
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D2415720000000000C9F420
+t1294210418
+s13235232
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.h
+c000000004D4D76C800000000000000E5
+t1296922312
+s229
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m
+c000000004D4D77DF000000000000129E
+t1296922591
+s4766
+i"ListaViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.h
+c000000004D4D768800000000000001D5
+t1296922248
+s469
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m
+c000000004D4D76880000000000000AA0
+t1296922248
+s2720
+i"TabelasAppDelegate.h"
+i"TabelasViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.h
+c000000004D4D768800000000000000E4
+t1296922248
+s228
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m
+c000000004D4D7830000000000000065A
+t1296922672
+s1626
+i"TabelasViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib
+c000000004D4D76880000000000004E29
+t1296922248
+s20009
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib
+c000000004D4D76880000000000001A45
+t1296922248
+s6725
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Tabelas_Prefix.pch
+c000000004D4D768800000000000000B7
+t1296922248
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app.dSYM
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/Info.plist
+t1296922676
+s775
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/MainWindow.nib
+t1296922677
+s1681
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/PkgInfo
+t1296922676
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/ResourceRules.plist
+t1296922676
+s485
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/Tabelas
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/TabelasViewController.nib
+t1296922677
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/embedded.mobileprovision
+t1296922678
+s10482
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/ListaViewController.o
+t1296922678
+s41476
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/Tabelas
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/Tabelas.LinkFileList
+c000000004D4D7834000000000000024E
+t1296922676
+s590
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/TabelasAppDelegate.o
+t1296922678
+s50724
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/TabelasViewController.o
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/main.o
+t1296922678
+s6488
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/ListaViewController.o
+t1296922678
+s41412
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/Tabelas
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/Tabelas.LinkFileList
+c000000004D4D7834000000000000024E
+t1296922676
+s590
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/TabelasAppDelegate.o
+t1296922678
+s50612
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/TabelasViewController.o
+t2
+s0
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/main.o
+t1296922678
+s6472
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas.xcent
+t1296922678
+s420
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m
+c000000004D4D7688000000000000015F
+t1296922248
+s351
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+c000000004D30458D00000000000028F2
+t1295009165
+s10482
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-alulgvqplqsyrxgicmszksrphcpx/Tabelas_Prefix.pch.gch
+t1296922678
+s10184604
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-ccrtktqnylndbigprxzfeiejrkuz/Tabelas_Prefix.pch.gch
+t1296922678
+s10643356
+
+NTabelas-Info.plist
+c000000004D4D7688000000000000038D
+t1296922248
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318615476#318615476#0(0"0(0#1#0"8667858272#0"0#
+
+CCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app
+r0
+
+CCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/ListaViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615478.530767
+e318615478.792080
+r1
+xCompileC
+xbuild/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/ListaViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m318615478#318615478#0(0"0(0#0#88"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m8638057504#1982"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-alulgvqplqsyrxgicmszksrphcpx/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/ListaViewController.o0#
+
+CCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/TabelasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615478.528449
+e318615478.685682
+r1
+xCompileC
+xbuild/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/TabelasAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m318615478#318615478#0(0"0(0#0#87"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m8643738752#1980"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-alulgvqplqsyrxgicmszksrphcpx/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/TabelasAppDelegate.o0#
+
+CCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/TabelasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615478.529556
+e318615478.663504
+r0
+xCompileC
+xbuild/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/TabelasViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m: In function '-[TabelasViewController viewDidLoad]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: 'ListaViewController' undeclared (first use in this function)
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: (Each undeclared identifier is reported only once
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: for each function it appears in.)
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: 'listaView' undeclared (first use in this function)
+lSLF07#2@98"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m318615478#318615478#0(750"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m: In function '-[TabelasViewController viewDidLoad]':/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: 'ListaViewController' undeclared (first use in this function)/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: (Each undeclared identifier is reported only once/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: for each function it appears in.)/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: 'listaView' undeclared (first use in this function)2(4@61"'ListaViewController' undeclared (first use in this function)318615478#144#164#0(6@90"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m318615472#37#0#37#0#43"'*' undeclared (first use in this function)0(4@51"'listaView' undeclared (first use in this function)318615478#596#154#0(6@90"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m318615472#37#0#37#0#43"'*' undeclared (first use in this function)0(0#0#90"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m8643172224#1986"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-alulgvqplqsyrxgicmszksrphcpx/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/TabelasViewController.o1#
+
+CCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615478.527320
+e318615478.665273
+r1
+xCompileC
+xbuild/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m318615478#318615478#0(0"0(0#0#65"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m8645690432#1944"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-alulgvqplqsyrxgicmszksrphcpx/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/ListaViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615478.792226
+e318615478.889079
+r1
+xCompileC
+xbuild/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/ListaViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m318615478#318615478#0(0"0(0#0#88"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m8664245664#1982"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-ccrtktqnylndbigprxzfeiejrkuz/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/ListaViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/ListaViewController.o0#
+
+CCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/TabelasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615478.665389
+e318615478.852962
+r1
+xCompileC
+xbuild/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/TabelasAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m318615478#318615478#0(0"0(0#0#87"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m8638056928#1980"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-ccrtktqnylndbigprxzfeiejrkuz/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/TabelasAppDelegate.o0#
+
+CCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/TabelasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615478.685827
+e318615478.852539
+r0
+xCompileC
+xbuild/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/TabelasViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m: In function '-[TabelasViewController viewDidLoad]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: 'ListaViewController' undeclared (first use in this function)
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: (Each undeclared identifier is reported only once
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: for each function it appears in.)
+o/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: 'listaView' undeclared (first use in this function)
+lSLF07#2@98"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m318615478#318615478#0(750"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m: In function '-[TabelasViewController viewDidLoad]':/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: 'ListaViewController' undeclared (first use in this function)/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: (Each undeclared identifier is reported only once/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: for each function it appears in.)/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m:37: error: 'listaView' undeclared (first use in this function)2(4@61"'ListaViewController' undeclared (first use in this function)318615478#144#164#0(6@90"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m318615472#37#0#37#0#43"'*' undeclared (first use in this function)0(4@51"'listaView' undeclared (first use in this function)318615478#596#154#0(6@90"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m318615472#37#0#37#0#43"'*' undeclared (first use in this function)0(0#0#90"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m8675042528#1986"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-ccrtktqnylndbigprxzfeiejrkuz/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Classes/TabelasViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/TabelasViewController.o1#
+
+CCompileC build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615478.663801
+e318615478.797024
+r1
+xCompileC
+xbuild/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m318615478#318615478#0(0"0(0#0#65"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m8636001696#1944"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-ccrtktqnylndbigprxzfeiejrkuz/Tabelas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib
+s318615476.787380
+e318615477.167019
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318615476#318615477#0(0"0(0#0#73"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib8677580864#602"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib
+s318615476.788216
+e318615477.160167
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib
+lSLF07#2@36"CompileXIB TabelasViewController.xib318615476#318615477#0(0"0(0#0#84"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib8677393184#624"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/TabelasViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/TabelasViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/Tabelas.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s318615476.720500
+e318615476.787263
+r1
+xCpResource
+xbuild/Debug-iphoneos/Tabelas.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist318615476#318615476#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8622321376#534"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app0#
+
+CCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/Tabelas normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/Tabelas
+r0
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv6/Tabelas normal armv6
+r0
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Objects-normal/armv7/Tabelas normal armv7
+r0
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/Info.plist Tabelas-Info.plist
+s318615476.744019
+e318615476.777007
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/Info.plist
+xTabelas-Info.plist
+lSLF07#2@26"Process Tabelas-Info.plist318615476#318615476#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Tabelas-Info.plist8670980288#642"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Tabelas-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/ResourceRules.plist -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-alulgvqplqsyrxgicmszksrphcpx/Tabelas_Prefix.pch.gch Tabelas_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615477.167136
+e318615478.527172
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-alulgvqplqsyrxgicmszksrphcpx/Tabelas_Prefix.pch.gch
+xTabelas_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Tabelas_Prefix.pch318615477#318615478#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Tabelas_Prefix.pch8665710592#1822"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Tabelas_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-alulgvqplqsyrxgicmszksrphcpx/Tabelas_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-ccrtktqnylndbigprxzfeiejrkuz/Tabelas_Prefix.pch.gch Tabelas_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615477.168030
+e318615478.502886
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-ccrtktqnylndbigprxzfeiejrkuz/Tabelas_Prefix.pch.gch
+xTabelas_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Tabelas_Prefix.pch318615477#318615478#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Tabelas_Prefix.pch8663471968#1822"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/Tabelas_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Tabelas_Prefix-ccrtktqnylndbigprxzfeiejrkuz/Tabelas_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/embedded.mobileprovision
+s318615478.889185
+e318615478.923364
+r1
+xProcessProductPackaging
+x/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/embedded.mobileprovision
+lSLF07#2@195"ProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" build/Debug-iphoneos/Tabelas.app/embedded.mobileprovision318615478#318615478#0(0"0(0#0#116"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/embedded.mobileprovision8648476224#466"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas.xcent
+s318615478.923470
+e318615478.943543
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas.xcent318615478#318615478#0(0"0(0#0#121"/Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas.xcent8633385952#472"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Tabelas.build/Debug-iphoneos/Tabelas.build/Tabelas.xcent0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/Tabelas/build/Debug-iphoneos/Tabelas.app
+r0
+

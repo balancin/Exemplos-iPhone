@@ -1,0 +1,440 @@
+TAgenda
+v7
+r0
+t318690417.153948
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Agenda.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Info.plist Agenda-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/AgendaViewController.xib
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-gsoenmtsggzuajhjlcxbttoghgkw/Agenda_Prefix.pch.gch Agenda_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-hjuywggavsllxpctknqwlwvkgnxn/Agenda_Prefix.pch.gch Agenda_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/AgendaAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/AgendaViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/AgendaAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/AgendaViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/Agenda normal armv6
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/Agenda normal armv7
+cCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Agenda normal "armv6 armv7"
+cGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Agenda
+cProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/embedded.mobileprovision
+cTouch /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda.xcent
+cCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D26BE130000000000000110
+t1294384659
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D23F20B00000000000001A7
+t1294201355
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D23F20B00000000000001E5
+t1294201355
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004D240A6D00000000000CAE60
+t1294207597
+s831072
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/AddressBook.framework/Headers/AddressBook.h
+c000000004D240A5A0000000000000424
+t1294207578
+s1060
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24088C0000000000353260
+t1294207116
+s3486304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D24090100000000003E22B0
+t1294207233
+s4072112
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2408E60000000000001466
+t1294207206
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414B50000000000000AA1
+t1294210229
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D2415720000000000C9F420
+t1294210418
+s13235232
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/AgendaViewController.xib
+c000000004D4E97BA0000000000001A41
+t1296996282
+s6721
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Agenda_Prefix.pch
+c000000004D4E97BA00000000000000B5
+t1296996282
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.h
+c000000004D4E97BA00000000000001CF
+t1296996282
+s463
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m
+c000000004D4E97BA0000000000000A9B
+t1296996282
+s2715
+i"AgendaAppDelegate.h"
+i"AgendaViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.h
+c000000004D4E984E0000000000000105
+t1296996430
+s261
+i<UIKit/UIKit.h>
+i<AddressBook/AddressBook.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m
+c000000004D4E9CEF0000000000000840
+t1296997615
+s2112
+i"AgendaViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/MainWindow.xib
+c000000004D4E97BA0000000000004E1D
+t1296996282
+s19997
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda.xcent
+t1296996816
+s418
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/Agenda
+t1296997616
+s17500
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/Agenda.LinkFileList
+c000000004D4E99CB00000000000001AC
+t1296996811
+s428
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/AgendaAppDelegate.o
+t1296996814
+s50680
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/AgendaViewController.o
+t1296997616
+s42268
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/main.o
+t1296996814
+s6484
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/Agenda
+t1296997616
+s17640
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/Agenda.LinkFileList
+c000000004D4E99CB00000000000001AC
+t1296996811
+s428
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/AgendaAppDelegate.o
+t1296996814
+s50568
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/AgendaViewController.o
+t1296997616
+s42236
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/main.o
+t1296996814
+s6468
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app
+t1296997617
+s374
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app.dSYM
+t1296997616
+s102
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Agenda
+t1296997616
+s42216
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/AgendaViewController.nib
+t1296996812
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Info.plist
+t1296996811
+s771
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/MainWindow.nib
+t1296996812
+s1679
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/PkgInfo
+t1296996811
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/ResourceRules.plist
+t1296996811
+s485
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/embedded.mobileprovision
+t1296996816
+s10482
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m
+c000000004D4E97BA000000000000015E
+t1296996282
+s350
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+c000000004D30458D00000000000028F2
+t1295009165
+s10482
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-gsoenmtsggzuajhjlcxbttoghgkw/Agenda_Prefix.pch.gch
+t1296996814
+s10184604
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-hjuywggavsllxpctknqwlwvkgnxn/Agenda_Prefix.pch.gch
+t1296996814
+s10643356
+
+NAgenda-Info.plist
+c000000004D4E97BA000000000000038D
+t1296996282
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318690416#318690416#0(0"0(0#1#0"8735354368#0"0#
+
+CCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app
+s318690416.985354
+e318690417.153899
+r1
+xCodeSign
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app
+lSLF07#2@40"CodeSign build/Debug-iphoneos/Agenda.app318690416#318690417#0(0"0(0#0#89"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app8745575136#721"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Fabio Balancin (3G649Y2ZVS)" --resource-rules=/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/ResourceRules.plist --entitlements /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda.xcent /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app0#
+
+CCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/AgendaAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318689614.793017
+e318689614.902212
+r1
+xCompileC
+xbuild/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/AgendaAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m318689614#318689614#0(0"0(0#0#85"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m8714628448#1947"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-gsoenmtsggzuajhjlcxbttoghgkw/Agenda_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/AgendaAppDelegate.o0#
+
+CCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/AgendaViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318690416.784888
+e318690416.888189
+r1
+xCompileC
+xbuild/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/AgendaViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m318690416#318690416#0(0"0(0#0#88"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m8746726400#1953"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-gsoenmtsggzuajhjlcxbttoghgkw/Agenda_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/AgendaViewController.o0#
+
+CCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318689614.791403
+e318689614.888606
+r1
+xCompileC
+xbuild/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m318689614#318689614#0(0"0(0#0#64"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m8712507744#1913"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-gsoenmtsggzuajhjlcxbttoghgkw/Agenda_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/AgendaAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318689614.888795
+e318689614.969894
+r1
+xCompileC
+xbuild/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/AgendaAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m318689614#318689614#0(0"0(0#0#85"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m8711483520#1947"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-hjuywggavsllxpctknqwlwvkgnxn/Agenda_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/AgendaAppDelegate.o0#
+
+CCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/AgendaViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318690416.826642
+e318690416.918969
+r1
+xCompileC
+xbuild/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/AgendaViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m318690416#318690416#0(0"0(0#0#88"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m8746606336#1953"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-hjuywggavsllxpctknqwlwvkgnxn/Agenda_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Classes/AgendaViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/AgendaViewController.o0#
+
+CCompileC build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318689614.796049
+e318689614.892327
+r1
+xCompileC
+xbuild/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m318689614#318689614#0(0"0(0#0#64"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m8712557440#1913"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-hjuywggavsllxpctknqwlwvkgnxn/Agenda_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/AgendaViewController.xib
+s318689611.598902
+e318689612.172258
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/AgendaViewController.xib
+lSLF07#2@35"CompileXIB AgendaViewController.xib318689611#318689612#0(0"0(0#0#82"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/AgendaViewController.xib8711408480#618"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/AgendaViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/AgendaViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/MainWindow.xib
+s318689611.597979
+e318689612.175268
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318689611#318689612#0(0"0(0#0#72"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/MainWindow.xib8711393280#598"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/Agenda.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s318689611.552551
+e318689611.597861
+r1
+xCpResource
+xbuild/Debug-iphoneos/Agenda.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist318689611#318689611#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8711630368#531"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app0#
+
+CCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Agenda normal "armv6 armv7"
+s318690416.954367
+e318690416.957991
+r1
+xCreateUniversalBinary
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Agenda
+xnormal
+xarmv6 armv7
+lSLF07#2@81"CreateUniversalBinary build/Debug-iphoneos/Agenda.app/Agenda normal "armv6 armv7"318690416#318690416#0(0"0(0#0#69"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/armv6 armv78722165120#586"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/Agenda /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/Agenda -output /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Agenda0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Agenda
+s318690416.958081
+e318690416.982285
+r1
+xGenerateDSYMFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app.dSYM
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Agenda
+lSLF07#2@92"GenerateDSYMFile build/Debug-iphoneos/Agenda.app.dSYM build/Debug-iphoneos/Agenda.app/Agenda318690416#318690416#0(0"0(0#0#96"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Agenda8746011040#416"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Agenda -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app.dSYM0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/Agenda normal armv6
+s318690416.888320
+e318690416.921863
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/Agenda
+xnormal
+xarmv6
+lSLF07#2@137"Link /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/Agenda318690416#318690416#0(0"0(0#0#0"8746733920#971"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/Agenda.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv6/Agenda0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/Agenda normal armv7
+s318690416.919107
+e318690416.954238
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/Agenda
+xnormal
+xarmv7
+lSLF07#2@137"Link /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/Agenda318690416#318690416#0(0"0(0#0#0"8746597504#971"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/Agenda.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Objects-normal/armv7/Agenda0#
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Info.plist Agenda-Info.plist
+s318689611.579978
+e318689611.587562
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Info.plist
+xAgenda-Info.plist
+lSLF07#2@25"Process Agenda-Info.plist318689611#318689611#0(0"0(0#0#75"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Agenda-Info.plist8711530496#634"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Agenda-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/ResourceRules.plist -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-gsoenmtsggzuajhjlcxbttoghgkw/Agenda_Prefix.pch.gch Agenda_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318689612.175377
+e318689614.711388
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-gsoenmtsggzuajhjlcxbttoghgkw/Agenda_Prefix.pch.gch
+xAgenda_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Agenda_Prefix.pch318689612#318689614#0(0"0(0#0#75"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Agenda_Prefix.pch8712252288#1793"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Agenda_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-gsoenmtsggzuajhjlcxbttoghgkw/Agenda_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-hjuywggavsllxpctknqwlwvkgnxn/Agenda_Prefix.pch.gch Agenda_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318689612.176275
+e318689614.791263
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-hjuywggavsllxpctknqwlwvkgnxn/Agenda_Prefix.pch.gch
+xAgenda_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Agenda_Prefix.pch318689612#318689614#0(0"0(0#0#75"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Agenda_Prefix.pch8711622496#1793"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/Agenda_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Agenda_Prefix-hjuywggavsllxpctknqwlwvkgnxn/Agenda_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/embedded.mobileprovision
+s318689616.244345
+e318689616.289210
+r1
+xProcessProductPackaging
+x/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/embedded.mobileprovision
+lSLF07#2@194"ProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" build/Debug-iphoneos/Agenda.app/embedded.mobileprovision318689616#318689616#0(0"0(0#0#114"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/embedded.mobileprovision8714467456#463"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda.xcent
+s318689616.318844
+e318689616.342448
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda.xcent
+lSLF07#2@172"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda.xcent318689616#318689616#0(0"0(0#0#117"/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda.xcent8709945888#467"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Agenda.build/Debug-iphoneos/Agenda.build/Agenda.xcent0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app
+s318690416.982464
+e318690416.985068
+r1
+xTouch
+x/Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app
+lSLF07#2@95"Touch /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app318690416#318690416#0(0"0(0#0#0"8745718464#301"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Agenda    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/balancin/Documents/Projects/iPhone/20110205/Agenda/build/Debug-iphoneos/Agenda.app0#
+

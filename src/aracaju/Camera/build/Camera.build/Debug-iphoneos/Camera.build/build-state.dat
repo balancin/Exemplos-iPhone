@@ -1,0 +1,441 @@
+TCamera
+v7
+r0
+t318703976.983674
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Camera.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Info.plist Camera-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Camera/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Camera/CameraViewController.xib
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-drnzgbpjczcmzwedsidppvwpktdz/Camera_Prefix.pch.gch Camera_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-ebkcpnzqnttlffcljjbyufybufyg/Camera_Prefix.pch.gch Camera_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/CameraAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/CameraViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/CameraAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/CameraViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/Camera normal armv7
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/Camera normal armv6
+cCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Camera normal "armv6 armv7"
+cGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Camera
+cProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/embedded.mobileprovision
+cTouch /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera.xcent
+cCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D26BE130000000000000110
+t1294384659
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D23F20B00000000000001A7
+t1294201355
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D23F20B00000000000001E5
+t1294201355
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24088C0000000000353260
+t1294207116
+s3486304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D24090100000000003E22B0
+t1294207233
+s4072112
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2408E60000000000001466
+t1294207206
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414B50000000000000AA1
+t1294210229
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D2415720000000000C9F420
+t1294210418
+s13235232
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/CameraViewController.xib
+c000000004D4ECEAC0000000000001A41
+t1297010348
+s6721
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Camera_Prefix.pch
+c000000004D4ECEAC00000000000000B5
+t1297010348
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.h
+c000000004D4ECEAC00000000000001CF
+t1297010348
+s463
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m
+c000000004D4ECEAC0000000000000A9B
+t1297010348
+s2715
+i"CameraAppDelegate.h"
+i"CameraViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.h
+c000000004D4ECF000000000000000103
+t1297010432
+s259
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m
+c000000004D4ED1E50000000000000A87
+t1297011173
+s2695
+i"CameraViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/MainWindow.xib
+c000000004D4ECEAC0000000000004E1D
+t1297010348
+s19997
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera.xcent
+t1297010609
+s418
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/Camera
+t1297011176
+s22500
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/Camera.LinkFileList
+c000000004D4ECFAC00000000000001AC
+t1297010604
+s428
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/CameraAppDelegate.o
+t1297010609
+s50680
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/CameraViewController.o
+t1297011176
+s48432
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/main.o
+t1297010608
+s6484
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/Camera
+t1297011176
+s22656
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/Camera.LinkFileList
+c000000004D4ECFAC00000000000001AC
+t1297010604
+s428
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/CameraAppDelegate.o
+t1297010609
+s50568
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/CameraViewController.o
+t1297011176
+s48276
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/main.o
+t1297010609
+s6468
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app
+t1297011176
+s374
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app.dSYM
+t1297011176
+s102
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Camera
+t1297011176
+s61344
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/CameraViewController.nib
+t1297010606
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Info.plist
+t1297010604
+s771
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/MainWindow.nib
+t1297010606
+s1679
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/PkgInfo
+t1297010604
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/ResourceRules.plist
+t1297010604
+s485
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/embedded.mobileprovision
+t1297010609
+s10482
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m
+c000000004D4ECEAC000000000000015E
+t1297010348
+s350
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Library/MobileDevice/Provisioning Profiles/0F55E3DA-7CB0-4FF2-91A4-3066368E4BE8.mobileprovision
+c000000004D649E8300000000000028F2
+t1298439811
+s10482
+
+N/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+c000000004D30458D00000000000028F2
+t1295009165
+s10482
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-drnzgbpjczcmzwedsidppvwpktdz/Camera_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-ebkcpnzqnttlffcljjbyufybufyg/Camera_Prefix.pch.gch
+t2
+s0
+
+NCamera-Info.plist
+c000000004D4ECEAC000000000000038D
+t1297010348
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318703976#318703976#0(0"0(0#1#0"8860669504#0"0#
+
+CCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app
+s318703976.793920
+e318703976.983621
+r1
+xCodeSign
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app
+lSLF07#2@40"CodeSign build/Debug-iphoneos/Camera.app318703976#318703976#0(0"0(0#0#89"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app8860224032#721"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Fabio Balancin (3G649Y2ZVS)" --resource-rules=/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/ResourceRules.plist --entitlements /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera.xcent /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app0#
+
+CCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/CameraAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318703408.655736
+e318703409.028281
+r1
+xCompileC
+xbuild/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/CameraAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m318703408#318703409#0(0"0(0#0#85"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m8840239360#1947"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-drnzgbpjczcmzwedsidppvwpktdz/Camera_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/CameraAppDelegate.o0#
+
+CCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/CameraViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318703976.448490
+e318703976.617605
+r1
+xCompileC
+xbuild/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/CameraViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m: In function '-[CameraViewController fotografar]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m:49: warning: class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol
+lSLF07#2@96"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m318703976#318703976#0(336"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m: In function '-[CameraViewController fotografar]':/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m:49: warning: class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol1(22@93"Class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol318703976#140#196#0(6@88"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m318703973#49#0#49#0#45"class '*' does not implement the '*' protocol0(0#0#88"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m8859472544#1953"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-drnzgbpjczcmzwedsidppvwpktdz/Camera_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/CameraViewController.o0#
+
+CCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318703408.654688
+e318703409.007338
+r1
+xCompileC
+xbuild/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m318703408#318703409#0(0"0(0#0#64"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m8832741344#1913"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-drnzgbpjczcmzwedsidppvwpktdz/Camera_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/CameraAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318703409.005426
+e318703409.108841
+r1
+xCompileC
+xbuild/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/CameraAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m318703409#318703409#0(0"0(0#0#85"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m8826974848#1947"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-ebkcpnzqnttlffcljjbyufybufyg/Camera_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/CameraAppDelegate.o0#
+
+CCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/CameraViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318703976.484670
+e318703976.604015
+r1
+xCompileC
+xbuild/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/CameraViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m: In function '-[CameraViewController fotografar]':
+o/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m:49: warning: class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol
+lSLF07#2@96"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m318703976#318703976#0(336"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m: In function '-[CameraViewController fotografar]':/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m:49: warning: class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol1(22@93"Class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol318703976#140#196#0(6@88"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m318703973#49#0#49#0#45"class '*' does not implement the '*' protocol0(0#0#88"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m8859355200#1953"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-ebkcpnzqnttlffcljjbyufybufyg/Camera_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Classes/CameraViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/CameraViewController.o0#
+
+CCompileC build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318703408.657758
+e318703409.007664
+r1
+xCompileC
+xbuild/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m318703408#318703409#0(0"0(0#0#64"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m8838173952#1913"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-ebkcpnzqnttlffcljjbyufybufyg/Camera_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/Camera/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Camera/CameraViewController.xib
+s318703404.455788
+e318703406.718699
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/CameraViewController.xib
+lSLF07#2@35"CompileXIB CameraViewController.xib318703404#318703406#0(0"0(0#0#82"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/CameraViewController.xib8840661056#618"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/CameraViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/Camera/CameraViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/Camera/MainWindow.xib
+s318703404.454356
+e318703406.659131
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318703404#318703406#0(0"0(0#0#72"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/MainWindow.xib8841107328#598"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/Camera/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/Camera.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s318703404.327260
+e318703404.454246
+r1
+xCpResource
+xbuild/Debug-iphoneos/Camera.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist318703404#318703404#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8842353120#531"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app0#
+
+CCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Camera normal "armv6 armv7"
+s318703976.710836
+e318703976.742143
+r1
+xCreateUniversalBinary
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Camera
+xnormal
+xarmv6 armv7
+lSLF07#2@81"CreateUniversalBinary build/Debug-iphoneos/Camera.app/Camera normal "armv6 armv7"318703976#318703976#0(0"0(0#0#69"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/armv6 armv78858865056#586"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/Camera /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/Camera -output /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Camera0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Camera
+s318703976.742307
+e318703976.768257
+r1
+xGenerateDSYMFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app.dSYM
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Camera
+lSLF07#2@92"GenerateDSYMFile build/Debug-iphoneos/Camera.app.dSYM build/Debug-iphoneos/Camera.app/Camera318703976#318703976#0(0"0(0#0#96"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Camera8860962944#416"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Camera -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app.dSYM0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/Camera normal armv6
+s318703976.617748
+e318703976.710258
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/Camera
+xnormal
+xarmv6
+lSLF07#2@137"Link /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/Camera318703976#318703976#0(0"0(0#0#0"8861969120#948"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/Camera.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv6/Camera0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/Camera normal armv7
+s318703976.604180
+e318703976.710750
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/Camera
+xnormal
+xarmv7
+lSLF07#2@137"Link /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/Camera318703976#318703976#0(0"0(0#0#0"8863393504#948"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/Camera.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Objects-normal/armv7/Camera0#
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Info.plist Camera-Info.plist
+s318703404.399999
+e318703404.432776
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Info.plist
+xCamera-Info.plist
+lSLF07#2@25"Process Camera-Info.plist318703404#318703404#0(0"0(0#0#75"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Camera-Info.plist8842036064#634"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Camera-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/ResourceRules.plist -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-drnzgbpjczcmzwedsidppvwpktdz/Camera_Prefix.pch.gch Camera_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318703406.718865
+e318703408.628909
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-drnzgbpjczcmzwedsidppvwpktdz/Camera_Prefix.pch.gch
+xCamera_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Camera_Prefix.pch318703406#318703408#0(0"0(0#0#75"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Camera_Prefix.pch8842966048#1793"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Camera_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-drnzgbpjczcmzwedsidppvwpktdz/Camera_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-ebkcpnzqnttlffcljjbyufybufyg/Camera_Prefix.pch.gch Camera_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318703406.719991
+e318703408.654579
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-ebkcpnzqnttlffcljjbyufybufyg/Camera_Prefix.pch.gch
+xCamera_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Camera_Prefix.pch318703406#318703408#0(0"0(0#0#75"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/Camera_Prefix.pch8840822688#1793"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/Camera/Camera_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-ebkcpnzqnttlffcljjbyufybufyg/Camera_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/0F55E3DA-7CB0-4FF2-91A4-3066368E4BE8.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/embedded.mobileprovision
+s318703409.108986
+e318703409.179555
+r1
+xProcessProductPackaging
+x/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/embedded.mobileprovision
+lSLF07#2@194"ProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" build/Debug-iphoneos/Camera.app/embedded.mobileprovision318703409#318703409#0(0"0(0#0#114"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/embedded.mobileprovision8836840320#463"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera.xcent
+s318703409.179668
+e318703409.223019
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera.xcent
+lSLF07#2@172"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/Camera.build/Debug-iphoneos/Camera.build/Camera.xcent318703409#318703409#0(0"0(0#0#117"/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera.xcent8843046528#467"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Camera.build/Debug-iphoneos/Camera.build/Camera.xcent0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app
+s318703976.768441
+e318703976.793676
+r1
+xTouch
+x/Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app
+lSLF07#2@95"Touch /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app318703976#318703976#0(0"0(0#0#0"8860422976#301"    cd /Users/balancin/Documents/Projects/iPhone/20110205/Camera    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/balancin/Documents/Projects/iPhone/20110205/Camera/build/Debug-iphoneos/Camera.app0#
+

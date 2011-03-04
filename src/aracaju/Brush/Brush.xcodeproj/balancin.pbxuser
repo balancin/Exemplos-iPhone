@@ -1,0 +1,177 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Brush */ = {
+		activeExec = 0;
+		executables = (
+			93309BC212FEBE0800194691 /* Brush */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BrushViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1127, 691}}";
+			sepNavSelRange = "{181, 0}";
+			sepNavVisRange = "{0, 244}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BrushViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1127, 1827}}";
+			sepNavSelRange = "{849, 0}";
+			sepNavVisRange = "{537, 776}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 93309BC212FEBE0800194691 /* Brush */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Brush */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Brush */,
+		);
+		codeSenseManager = 93309BCE12FEBE2800194691 /* Code sense */;
+		executables = (
+			93309BC212FEBE0800194691 /* Brush */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320682713;
+			PBXWorkspaceStateSaveDate = 320682713;
+		};
+		perUserProjectItems = {
+			93309C8812FEC5D400194691 = 93309C8812FEC5D400194691 /* PBXTextBookmark */;
+			93309C8912FEC5D400194691 = 93309C8912FEC5D400194691 /* PBXTextBookmark */;
+			93309C8A12FEC5D400194691 = 93309C8A12FEC5D400194691 /* PBXTextBookmark */;
+			93309C8B12FEC5D400194691 = 93309C8B12FEC5D400194691 /* PBXTextBookmark */;
+			93309C8C12FEC5D400194691 = 93309C8C12FEC5D400194691 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 93309BCD12FEBE2800194691 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	93309BC212FEBE0800194691 /* Brush */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Brush;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	93309BCD12FEBE2800194691 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	93309BCE12FEBE2800194691 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	93309BD212FEBF0800194691 /* BrushView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1652, 947}}";
+			sepNavSelRange = "{192, 0}";
+			sepNavVisRange = "{0, 192}";
+		};
+	};
+	93309BD312FEBF0800194691 /* BrushView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1652, 1071}}";
+			sepNavSelRange = "{331, 0}";
+			sepNavVisRange = "{29, 894}";
+		};
+	};
+	93309C8812FEC5D400194691 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 93309BD212FEBF0800194691 /* BrushView.h */;
+		name = "BrushView.h: 17";
+		rLen = 0;
+		rLoc = 192;
+		rType = 0;
+		vrLen = 192;
+		vrLoc = 0;
+	};
+	93309C8912FEC5D400194691 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BrushViewController.h */;
+		name = "BrushViewController.h: 11";
+		rLen = 0;
+		rLoc = 181;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	93309C8A12FEC5D400194691 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 93309BD312FEBF0800194691 /* BrushView.m */;
+		name = "BrushView.m: 23";
+		rLen = 0;
+		rLoc = 331;
+		rType = 0;
+		vrLen = 894;
+		vrLoc = 29;
+	};
+	93309C8B12FEC5D400194691 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BrushViewController.m */;
+		name = "BrushViewController.m: 61";
+		rLen = 0;
+		rLoc = 1542;
+		rType = 0;
+		vrLen = 1373;
+		vrLoc = 659;
+	};
+	93309C8C12FEC5D400194691 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BrushViewController.m */;
+		name = "BrushViewController.m: 36";
+		rLen = 0;
+		rLoc = 802;
+		rType = 0;
+		vrLen = 1232;
+		vrLoc = 537;
+	};
+}

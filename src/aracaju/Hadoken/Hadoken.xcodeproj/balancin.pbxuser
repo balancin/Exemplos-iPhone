@@ -1,0 +1,166 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Hadoken */ = {
+		activeExec = 0;
+		executables = (
+			93309C0012FEC3D700194691 /* Hadoken */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* HadokenViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1077, 519}}";
+			sepNavSelRange = "{384, 0}";
+			sepNavVisRange = "{0, 396}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* HadokenViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1431.64, 2205}}";
+			sepNavSelRange = "{1845, 0}";
+			sepNavVisRange = "{1415, 761}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 93309C0012FEC3D700194691 /* Hadoken */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Hadoken */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Hadoken */,
+		);
+		codeSenseManager = 93309C0C12FEC3E800194691 /* Code sense */;
+		executables = (
+			93309C0012FEC3D700194691 /* Hadoken */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					899,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1339,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320681321;
+			PBXWorkspaceStateSaveDate = 320681321;
+		};
+		perUserProjectItems = {
+			936F4A65131D35600025227E = 936F4A65131D35600025227E /* PBXTextBookmark */;
+			936F4A66131D35600025227E = 936F4A66131D35600025227E /* PBXTextBookmark */;
+			936F4A67131D35600025227E = 936F4A67131D35600025227E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 93309C0B12FEC3E800194691 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	93309C0012FEC3D700194691 /* Hadoken */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Hadoken;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	93309C0B12FEC3E800194691 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	93309C0C12FEC3E800194691 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	936F4A65131D35600025227E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* HadokenViewController.h */;
+		name = "HadokenViewController.h: 18";
+		rLen = 0;
+		rLoc = 384;
+		rType = 0;
+		vrLen = 396;
+		vrLoc = 0;
+	};
+	936F4A66131D35600025227E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* HadokenViewController.m */;
+		name = "HadokenViewController.m: 57";
+		rLen = 0;
+		rLoc = 1582;
+		rType = 0;
+		vrLen = 795;
+		vrLoc = 1378;
+	};
+	936F4A67131D35600025227E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* HadokenViewController.m */;
+		name = "HadokenViewController.m: 64";
+		rLen = 0;
+		rLoc = 1845;
+		rType = 0;
+		vrLen = 761;
+		vrLoc = 1415;
+	};
+}

@@ -1,0 +1,440 @@
+Tipod
+v7
+r0
+t318704125.693893
+cCheck dependencies
+cCpResource build/Debug-iphoneos/ipod.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/Info.plist ipod-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/ipod/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipodViewController.xib
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cgcvewedtnzdcmfhyzykahhanaxw/ipod_Prefix.pch.gch ipod_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cscegiasbchsqybvvikwuwievsgt/ipod_Prefix.pch.gch ipod_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipodAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipodViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipodAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipodViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipod normal armv6
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipod normal armv7
+cCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipod normal "armv6 armv7"
+cGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipod
+cProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/embedded.mobileprovision
+cTouch /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod.xcent
+cCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D26BE130000000000000110
+t1294384659
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D23F20B00000000000001A7
+t1294201355
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D23F20B00000000000001E5
+t1294201355
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24088C0000000000353260
+t1294207116
+s3486304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D24090100000000003E22B0
+t1294207233
+s4072112
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2408E60000000000001466
+t1294207206
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004D24257E0000000000000294
+t1294214526
+s660
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004D2425A700000000003ACAB0
+t1294214567
+s3852976
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414B50000000000000AA1
+t1294210229
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D2415720000000000C9F420
+t1294210418
+s13235232
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.h
+c000000004D4EC74300000000000001C3
+t1297008451
+s451
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m
+c000000004D4EC7430000000000000A91
+t1297008451
+s2705
+i"ipodAppDelegate.h"
+i"ipodViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.h
+c000000004D4EC7A100000000000000FF
+t1297008545
+s255
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m
+c000000004D4ED278000000000000087C
+t1297011320
+s2172
+i"ipodViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/MainWindow.xib
+c000000004D4EC7430000000000004E05
+t1297008451
+s19973
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app
+t1297011325
+s374
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app.dSYM
+t1297011325
+s102
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/Info.plist
+t1297008755
+s763
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/MainWindow.nib
+t1297008754
+s1675
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/PkgInfo
+t1297008755
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ResourceRules.plist
+t1297008755
+s485
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/embedded.mobileprovision
+t1297008758
+s10482
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipod
+t1297011325
+s42444
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipodViewController.nib
+t1297008754
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipod
+t1297011325
+s17728
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipod.LinkFileList
+c000000004D4EC8730000000000000196
+t1297008755
+s406
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipodAppDelegate.o
+t1297008756
+s50584
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipodViewController.o
+t1297011325
+s42296
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/main.o
+t1297008756
+s6480
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipod
+t1297011325
+s17868
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipod.LinkFileList
+c000000004D4EC8730000000000000196
+t1297008755
+s406
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipodAppDelegate.o
+t1297008756
+s50472
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipodViewController.o
+t1297011325
+s42308
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/main.o
+t1297008756
+s6464
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod.xcent
+t1297008758
+s414
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipodViewController.xib
+c000000004D4EC7430000000000001A39
+t1297008451
+s6713
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipod_Prefix.pch
+c000000004D4EC74300000000000000B1
+t1297008451
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m
+c000000004D4EC743000000000000015C
+t1297008451
+s348
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+c000000004D30458D00000000000028F2
+t1295009165
+s10482
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cgcvewedtnzdcmfhyzykahhanaxw/ipod_Prefix.pch.gch
+t1297008756
+s10184604
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cscegiasbchsqybvvikwuwievsgt/ipod_Prefix.pch.gch
+t1297008756
+s10643356
+
+Nipod-Info.plist
+c000000004D4EC743000000000000038D
+t1297008451
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318704124#318704125#0(0"0(0#1#0"8859263616#0"0#
+
+CCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app
+s318704125.533947
+e318704125.693532
+r1
+xCodeSign
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app
+lSLF07#2@38"CodeSign build/Debug-iphoneos/ipod.app318704125#318704125#0(0"0(0#0#85"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app8866308800#703"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Fabio Balancin (3G649Y2ZVS)" --resource-rules=/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ResourceRules.plist --entitlements /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod.xcent /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app0#
+
+CCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipodAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318701556.472107
+e318701556.690357
+r1
+xCompileC
+xbuild/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipodAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m318701556#318701556#0(0"0(0#0#81"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m8765720864#1881"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cgcvewedtnzdcmfhyzykahhanaxw/ipod_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipodAppDelegate.o0#
+
+CCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipodViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318704125.343339
+e318704125.467053
+r1
+xCompileC
+xbuild/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipodViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m318704125#318704125#0(0"0(0#0#84"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m8872302624#1887"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cgcvewedtnzdcmfhyzykahhanaxw/ipod_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipodViewController.o0#
+
+CCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318701556.470395
+e318701556.641021
+r1
+xCompileC
+xbuild/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m318701556#318701556#0(0"0(0#0#62"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m8774202144#1851"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cgcvewedtnzdcmfhyzykahhanaxw/ipod_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipodAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318701556.641346
+e318701556.724848
+r1
+xCompileC
+xbuild/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipodAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m318701556#318701556#0(0"0(0#0#81"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m8760733472#1881"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cscegiasbchsqybvvikwuwievsgt/ipod_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipodAppDelegate.o0#
+
+CCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipodViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318704125.389341
+e318704125.471339
+r1
+xCompileC
+xbuild/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipodViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m318704125#318704125#0(0"0(0#0#84"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m8870904960#1887"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cscegiasbchsqybvvikwuwievsgt/ipod_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/ipod/Classes/ipodViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipodViewController.o0#
+
+CCompileC build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318701556.475166
+e318701556.642935
+r1
+xCompileC
+xbuild/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m318701556#318701556#0(0"0(0#0#62"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m8773824576#1851"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cscegiasbchsqybvvikwuwievsgt/ipod_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/ipod/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/ipod/MainWindow.xib
+s318701555.222179
+e318701554.861515
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318701555#318701554#0(0"0(0#0#70"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/MainWindow.xib8709760928#590"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/ipod/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipodViewController.xib
+s318701555.224013
+e318701554.850572
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipodViewController.xib
+lSLF07#2@33"CompileXIB ipodViewController.xib318701555#318701554#0(0"0(0#0#78"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipodViewController.xib8764195360#606"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipodViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipodViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/ipod.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s318701555.164027
+e318701555.221528
+r1
+xCpResource
+xbuild/Debug-iphoneos/ipod.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist318701555#318701555#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8775195392#525"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app0#
+
+CCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipod normal "armv6 armv7"
+s318704125.504569
+e318704125.508171
+r1
+xCreateUniversalBinary
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipod
+xnormal
+xarmv6 armv7
+lSLF07#2@77"CreateUniversalBinary build/Debug-iphoneos/ipod.app/ipod normal "armv6 armv7"318704125#318704125#0(0"0(0#0#67"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/armv6 armv78831629792#562"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipod /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipod -output /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipod0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipod
+s318704125.508283
+e318704125.530547
+r1
+xGenerateDSYMFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app.dSYM
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipod
+lSLF07#2@86"GenerateDSYMFile build/Debug-iphoneos/ipod.app.dSYM build/Debug-iphoneos/ipod.app/ipod318704125#318704125#0(0"0(0#0#90"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipod8612000064#404"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ipod -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app.dSYM0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipod normal armv6
+s318704125.467166
+e318704125.504493
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipod
+xnormal
+xarmv6
+lSLF07#2@129"Link /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipod318704125#318704125#0(0"0(0#0#0"8876774176#949"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipod.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv6/ipod0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipod normal armv7
+s318704125.471427
+e318704125.504144
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipod
+xnormal
+xarmv7
+lSLF07#2@129"Link /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipod318704125#318704125#0(0"0(0#0#0"8872898912#949"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipod.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/Objects-normal/armv7/ipod0#
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/Info.plist ipod-Info.plist
+s318701555.165243
+e318701555.222081
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/Info.plist
+xipod-Info.plist
+lSLF07#2@23"Process ipod-Info.plist318701555#318701555#0(0"0(0#0#71"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipod-Info.plist8756787776#618"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ipod-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/ResourceRules.plist -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cgcvewedtnzdcmfhyzykahhanaxw/ipod_Prefix.pch.gch ipod_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318701554.861671
+e318701556.470184
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cgcvewedtnzdcmfhyzykahhanaxw/ipod_Prefix.pch.gch
+xipod_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile ipod_Prefix.pch318701554#318701556#0(0"0(0#0#71"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipod_Prefix.pch8770813504#1735"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipod_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cgcvewedtnzdcmfhyzykahhanaxw/ipod_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cscegiasbchsqybvvikwuwievsgt/ipod_Prefix.pch.gch ipod_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318701554.862716
+e318701556.445133
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cscegiasbchsqybvvikwuwievsgt/ipod_Prefix.pch.gch
+xipod_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile ipod_Prefix.pch318701554#318701556#0(0"0(0#0#71"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipod_Prefix.pch8767484160#1735"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/ipod/ipod_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ipod_Prefix-cscegiasbchsqybvvikwuwievsgt/ipod_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/embedded.mobileprovision
+s318701558.405609
+e318701558.433937
+r1
+xProcessProductPackaging
+x/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/embedded.mobileprovision
+lSLF07#2@192"ProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" build/Debug-iphoneos/ipod.app/embedded.mobileprovision318701558#318701558#0(0"0(0#0#110"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/embedded.mobileprovision8769226080#457"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod.xcent
+s318701558.437688
+e318701558.453791
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod.xcent
+lSLF07#2@166"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/ipod.build/Debug-iphoneos/ipod.build/ipod.xcent318701558#318701558#0(0"0(0#0#109"/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod.xcent8758149952#457"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/ipod.build/Debug-iphoneos/ipod.build/ipod.xcent0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app
+s318704125.530793
+e318704125.533783
+r1
+xTouch
+x/Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app
+lSLF07#2@91"Touch /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app318704125#318704125#0(0"0(0#0#0"8604798848#295"    cd /Users/balancin/Documents/Projects/iPhone/20110205/ipod    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/balancin/Documents/Projects/iPhone/20110205/ipod/build/Debug-iphoneos/ipod.app0#
+

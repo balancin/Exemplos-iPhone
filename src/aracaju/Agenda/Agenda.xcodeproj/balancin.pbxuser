@@ -1,0 +1,163 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Agenda */ = {
+		activeExec = 0;
+		executables = (
+			93309CD912FECF3A00194691 /* Agenda */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AgendaViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1859, 396}}";
+			sepNavSelRange = "{196, 0}";
+			sepNavVisRange = "{0, 261}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AgendaViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1549, 1911}}";
+			sepNavSelRange = "{779, 0}";
+			sepNavVisRange = "{547, 853}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 93309CD912FECF3A00194691 /* Agenda */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Agenda */;
+		codeSenseManager = 93309CEB12FECF5100194691 /* Code sense */;
+		executables = (
+			93309CD912FECF3A00194691 /* Agenda */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1331,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318689082;
+			PBXWorkspaceStateSaveDate = 318689082;
+		};
+		perUserProjectItems = {
+			93309D0512FED15200194691 /* PBXTextBookmark */ = 93309D0512FED15200194691 /* PBXTextBookmark */;
+			93309D2D12FED5A000194691 /* PBXTextBookmark */ = 93309D2D12FED5A000194691 /* PBXTextBookmark */;
+			93309D2E12FED5AD00194691 /* PBXTextBookmark */ = 93309D2E12FED5AD00194691 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 93309CEA12FECF5100194691 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	93309CD912FECF3A00194691 /* Agenda */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Agenda;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	93309CEA12FECF5100194691 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	93309CEB12FECF5100194691 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	93309D0512FED15200194691 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AgendaViewController.h */;
+		name = "AgendaViewController.h: 10";
+		rLen = 0;
+		rLoc = 196;
+		rType = 0;
+		vrLen = 261;
+		vrLoc = 0;
+	};
+	93309D2D12FED5A000194691 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AgendaViewController.m */;
+		name = "AgendaViewController.m: 40";
+		rLen = 0;
+		rLoc = 993;
+		rType = 0;
+		vrLen = 620;
+		vrLoc = 805;
+	};
+	93309D2E12FED5AD00194691 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AgendaViewController.m */;
+		name = "AgendaViewController.m: 34";
+		rLen = 0;
+		rLoc = 779;
+		rType = 0;
+		vrLen = 853;
+		vrLoc = 547;
+	};
+}

@@ -1,0 +1,429 @@
+Tcamadas
+v7
+r0
+t318595895.927368
+cCheck dependencies
+cCpResource build/Debug-iphoneos/camadas.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/Info.plist camadas-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/camadas/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadasViewController.xib
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-dkhfgiqttpryqtczihxooapcyxbq/camadas_Prefix.pch.gch camadas_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-clbzmksjgmtzmmbujxyqfajdrmkn/camadas_Prefix.pch.gch camadas_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadas normal armv6
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadas normal armv7
+cCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadas normal "armv6 armv7"
+cGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadas
+cProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/embedded.mobileprovision
+cTouch /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas.xcent
+cCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D26BE130000000000000110
+t1294384659
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D23F20B00000000000001A7
+t1294201355
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D23F20B00000000000001E5
+t1294201355
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24088C0000000000353260
+t1294207116
+s3486304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D24090100000000003E22B0
+t1294207233
+s4072112
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2408E60000000000001466
+t1294207206
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414B50000000000000AA1
+t1294210229
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D2415720000000000C9F420
+t1294210418
+s13235232
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.h
+c000000004D4D2AEA00000000000001D5
+t1296902890
+s469
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m
+c000000004D4D2AEA0000000000000AA0
+t1296902890
+s2720
+i"camadasAppDelegate.h"
+i"camadasViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.h
+c000000004D4D2AEA00000000000000E4
+t1296902890
+s228
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m
+c000000004D4D2B7400000000000005C7
+t1296903028
+s1479
+i"camadasViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/MainWindow.xib
+c000000004D4D2AEA0000000000004E29
+t1296902890
+s20009
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app
+t1296903095
+s374
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app.dSYM
+t1296903095
+s102
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/Info.plist
+t1296903092
+s775
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/MainWindow.nib
+t1296903092
+s1681
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/PkgInfo
+t1296903092
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/ResourceRules.plist
+t1296903092
+s485
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadas
+t1296903095
+s52176
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadasViewController.nib
+t1296903092
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/embedded.mobileprovision
+t1296903095
+s10482
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadas
+t1296903095
+s17472
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadas.LinkFileList
+c000000004D4D2BB400000000000001B7
+t1296903092
+s439
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadasAppDelegate.o
+t1296903093
+s50724
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadasViewController.o
+t1296903093
+s38480
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/main.o
+t1296903093
+s6488
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadas
+t1296903095
+s17612
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadas.LinkFileList
+c000000004D4D2BB400000000000001B7
+t1296903092
+s439
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadasAppDelegate.o
+t1296903093
+s50612
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadasViewController.o
+t1296903093
+s38444
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/main.o
+t1296903093
+s6472
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas.xcent
+t1296903095
+s420
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadasViewController.xib
+c000000004D4D2AEA0000000000001A45
+t1296902890
+s6725
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadas_Prefix.pch
+c000000004D4D2AEA00000000000000B7
+t1296902890
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m
+c000000004D4D2AEA000000000000015F
+t1296902890
+s351
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+c000000004D30458D00000000000028F2
+t1295009165
+s10482
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-clbzmksjgmtzmmbujxyqfajdrmkn/camadas_Prefix.pch.gch
+t1296903093
+s10643356
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-dkhfgiqttpryqtczihxooapcyxbq/camadas_Prefix.pch.gch
+t1296903093
+s10184604
+
+Ncamadas-Info.plist
+c000000004D4D2AEA000000000000038D
+t1296902890
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318595892#318595892#0(0"0(0#1#0"8613666048#0"0#
+
+CCodeSign /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app
+s318595895.524453
+e318595895.927323
+r1
+xCodeSign
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/camadas.app318595895#318595895#0(0"0(0#0#91"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app8613429984#730"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Fabio Balancin (3G649Y2ZVS)" --resource-rules=/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/ResourceRules.plist --entitlements /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas.xcent /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app0#
+
+CCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318595893.682219
+e318595893.840390
+r1
+xCompileC
+xbuild/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadasAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m318595893#318595893#0(0"0(0#0#87"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m8610853952#1980"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-dkhfgiqttpryqtczihxooapcyxbq/camadas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadasAppDelegate.o0#
+
+CCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318595893.683728
+e318595893.836001
+r1
+xCompileC
+xbuild/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadasViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m318595893#318595893#0(0"0(0#0#90"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m8611693824#1986"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-dkhfgiqttpryqtczihxooapcyxbq/camadas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadasViewController.o0#
+
+CCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/main.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318595893.680615
+e318595893.825868
+r1
+xCompileC
+xbuild/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m318595893#318595893#0(0"0(0#0#65"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m8610723680#1944"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-dkhfgiqttpryqtczihxooapcyxbq/camadas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318595893.824189
+e318595893.916534
+r1
+xCompileC
+xbuild/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadasAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m318595893#318595893#0(0"0(0#0#87"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m8613216480#1980"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-clbzmksjgmtzmmbujxyqfajdrmkn/camadas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadasAppDelegate.o0#
+
+CCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318595893.825968
+e318595893.887850
+r1
+xCompileC
+xbuild/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadasViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m318595893#318595893#0(0"0(0#0#90"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m8611655808#1986"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-clbzmksjgmtzmmbujxyqfajdrmkn/camadas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/camadas/Classes/camadasViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadasViewController.o0#
+
+CCompileC build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/main.o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318595893.685602
+e318595893.823811
+r1
+xCompileC
+xbuild/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m318595893#318595893#0(0"0(0#0#65"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m8604914912#1944"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-clbzmksjgmtzmmbujxyqfajdrmkn/camadas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/camadas/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/camadas/MainWindow.xib
+s318595892.356538
+e318595892.720163
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318595892#318595892#0(0"0(0#0#73"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/MainWindow.xib8610446976#602"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/camadas/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadasViewController.xib
+s318595892.357224
+e318595892.708393
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadasViewController.xib
+lSLF07#2@36"CompileXIB camadasViewController.xib318595892#318595892#0(0"0(0#0#84"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadasViewController.xib8610283584#624"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadasViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadasViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/camadas.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s318595892.315732
+e318595892.356367
+r1
+xCpResource
+xbuild/Debug-iphoneos/camadas.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist318595892#318595892#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist8611290368#534"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app0#
+
+CCreateUniversalBinary /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadas normal "armv6 armv7"
+s318595895.435040
+e318595895.471458
+r1
+xCreateUniversalBinary
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadas
+xnormal
+xarmv6 armv7
+lSLF07#2@83"CreateUniversalBinary build/Debug-iphoneos/camadas.app/camadas normal "armv6 armv7"318595895#318595895#0(0"0(0#0#70"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/armv6 armv78605219936#598"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadas /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadas -output /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadas0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadas
+s318595895.471570
+e318595895.494658
+r1
+xGenerateDSYMFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app.dSYM
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadas
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/camadas.app.dSYM build/Debug-iphoneos/camadas.app/camadas318595895#318595895#0(0"0(0#0#99"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadas8605033376#422"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/camadas -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app.dSYM0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadas normal armv6
+s318595893.840513
+e318595895.434329
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadas
+xnormal
+xarmv6
+lSLF07#2@141"Link /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadas318595893#318595895#0(0"0(0#0#0"8611258208#959"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadas.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv6/camadas0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadas normal armv7
+s318595893.916640
+e318595895.434945
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadas
+xnormal
+xarmv7
+lSLF07#2@141"Link /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadas318595893#318595895#0(0"0(0#0#0"8610841472#959"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -F/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -filelist /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadas.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/Objects-normal/armv7/camadas0#
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/Info.plist camadas-Info.plist
+s318595892.316552
+e318595892.346518
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/Info.plist
+xcamadas-Info.plist
+lSLF07#2@26"Process camadas-Info.plist318595892#318595892#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadas-Info.plist8610977888#642"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility camadas-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/ResourceRules.plist -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-clbzmksjgmtzmmbujxyqfajdrmkn/camadas_Prefix.pch.gch camadas_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318595892.721136
+e318595893.680469
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-clbzmksjgmtzmmbujxyqfajdrmkn/camadas_Prefix.pch.gch
+xcamadas_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile camadas_Prefix.pch318595892#318595893#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadas_Prefix.pch8611591904#1822"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources/armv7 -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadas_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-clbzmksjgmtzmmbujxyqfajdrmkn/camadas_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-dkhfgiqttpryqtczihxooapcyxbq/camadas_Prefix.pch.gch camadas_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318595892.720279
+e318595893.484371
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-dkhfgiqttpryqtczihxooapcyxbq/camadas_Prefix.pch.gch
+xcamadas_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile camadas_Prefix.pch318595892#318595893#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadas_Prefix.pch8613062560#1822"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/include -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources/armv6 -I/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/camadas/camadas_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/camadas_Prefix-dkhfgiqttpryqtczihxooapcyxbq/camadas_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/embedded.mobileprovision
+s318595895.494755
+e318595895.495815
+r1
+xProcessProductPackaging
+x/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/embedded.mobileprovision
+lSLF07#2@195"ProcessProductPackaging "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" build/Debug-iphoneos/camadas.app/embedded.mobileprovision318595895#318595895#0(0"0(0#0#116"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/embedded.mobileprovision8603118944#466"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/balancin/Library/MobileDevice/Provisioning Profiles/5A1096BC-0458-4D57-B8EF-00C449941619.mobileprovision" -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas.xcent
+s318595895.498260
+e318595895.524354
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/camadas.build/Debug-iphoneos/camadas.build/camadas.xcent318595895#318595895#0(0"0(0#0#121"/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas.xcent8610688384#472"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/camadas.build/Debug-iphoneos/camadas.build/camadas.xcent0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app
+s318595895.495862
+e318595895.498195
+r1
+xTouch
+x/Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app
+lSLF07#2@97"Touch /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app318595895#318595895#0(0"0(0#0#0"8613576512#304"    cd /Users/balancin/Documents/Projects/iPhone/20110205/camadas    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/balancin/Documents/Projects/iPhone/20110205/camadas/build/Debug-iphoneos/camadas.app0#
+

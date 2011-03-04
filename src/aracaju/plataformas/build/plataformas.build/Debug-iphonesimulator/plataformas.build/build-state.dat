@@ -1,0 +1,256 @@
+Tplataformas
+v7
+r0
+t318606677.084853
+cCheck dependencies
+cProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/Info.plist plataformas-Info.plist
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/MainWindow.xib
+cCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/plataformasViewController.xib
+cProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/plataformas_Prefix-bkerpzlafudopjebktxyvhqkgill/plataformas_Prefix.pch.gch plataformas_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformas normal i386
+cGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformas
+cTouch /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D2416E60000000000000110
+t1294210790
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24066D0000000000298910
+t1294206573
+s2722064
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D2406C1000000000029DA10
+t1294206657
+s2742800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2406B40000000000001466
+t1294206644
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414D90000000000000AA1
+t1294210265
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D24154D00000000007651B0
+t1294210381
+s7754160
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasAppDelegate.h
+c000000004D4D3FE000000000000001ED
+t1296908256
+s493
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasAppDelegate.m
+c000000004D4D3FE00000000000000AB4
+t1296908256
+s2740
+i"plataformasAppDelegate.h"
+i"plataformasViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasViewController.h
+c000000004D4D50EE0000000000000172
+t1296912622
+s370
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasViewController.m
+c000000004D4D56220000000000000979
+t1296913954
+s2425
+i"plataformasViewController.h"
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/MainWindow.xib
+c000000004D4D3FE00000000000004E59
+t1296908256
+s20057
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app
+t1296913877
+s238
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app.dSYM
+t1296913877
+s102
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/Info.plist
+t1296910346
+s607
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/MainWindow.nib
+t1296910347
+s1689
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/PkgInfo
+t1296910346
+s8
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformas
+t1296913877
+s18832
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformasViewController.nib
+t1296910346
+s1269
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/main.o
+t1296910349
+s6360
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformas.LinkFileList
+c000000004D4D480A00000000000001F5
+t1296910346
+s501
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformasAppDelegate.o
+t1296912622
+s51616
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformasViewController.o
+t1296913877
+s44892
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/main.m
+c000000004D4D3FE00000000000000163
+t1296908256
+s355
+i<UIKit/UIKit.h>
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/plataformasViewController.xib
+c000000004D4D3FE00000000000001A55
+t1296908256
+s6741
+
+N/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/plataformas_Prefix.pch
+c000000004D4D3FE000000000000000BF
+t1296908256
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/plataformas_Prefix-bkerpzlafudopjebktxyvhqkgill/plataformas_Prefix.pch.gch
+t1296910349
+s15809968
+
+Nplataformas-Info.plist
+c000000004D4D3FE0000000000000038D
+t1296908256
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318606676#318606676#0(0"0(0#1#0"8637955680#0"0#
+
+CCompileC build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/main.o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318603149.683457
+e318603149.855992
+r1
+xCompileC
+xbuild/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/main.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/main.m318603149#318603149#0(0"0(0#0#69"/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/main.m8615180064#2258"    cd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/plataformas_Prefix-bkerpzlafudopjebktxyvhqkgill/plataformas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/main.m -o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/main.o0#
+
+CCompileC build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformasAppDelegate.o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318605422.466876
+e318605422.530197
+r1
+xCompileC
+xbuild/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformasAppDelegate.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasAppDelegate.m318605422#318605422#0(0"0(0#0#95"/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasAppDelegate.m8622590752#2302"    cd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/plataformas_Prefix-bkerpzlafudopjebktxyvhqkgill/plataformas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasAppDelegate.m -o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformasAppDelegate.o0#
+
+CCompileC build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformasViewController.o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318606676.949795
+e318606677.049736
+r1
+xCompileC
+xbuild/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformasViewController.o
+x/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasViewController.m318606676#318606677#0(0"0(0#0#98"/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasViewController.m8636689792#2308"    cd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/DerivedSources -include /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/plataformas_Prefix-bkerpzlafudopjebktxyvhqkgill/plataformas_Prefix.pch -c /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/Classes/plataformasViewController.m -o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformasViewController.o0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/MainWindow.xib
+s318603146.320201
+e318603147.183400
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318603146#318603147#0(0"0(0#0#77"/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/MainWindow.xib8610131744#646"    cd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/MainWindow.nib /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/plataformasViewController.xib
+s318603146.350718
+e318603147.008936
+r1
+xCompileXIB
+x/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/plataformasViewController.xib
+lSLF07#2@40"CompileXIB plataformasViewController.xib318603146#318603147#0(0"0(0#0#92"/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/plataformasViewController.xib8619014048#676"    cd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformasViewController.nib /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/plataformasViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app.dSYM /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformas
+s318606677.070081
+e318606677.082474
+r1
+xGenerateDSYMFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app.dSYM
+x/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformas
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/plataformas.app.dSYM build/Debug-iphonesimulator/plataformas.app/plataformas318606677#318606677#0(0"0(0#0#118"/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformas8637907936#467"    cd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformas -o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app.dSYM0#
+
+CLd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformas normal i386
+s318606677.049828
+e318606677.069978
+r1
+xLd
+x/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformas
+xnormal
+xi386
+lSLF07#2@123"Link /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformas318606677#318606677#0(0"0(0#0#0"8638006464#1040"    cd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator -F/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator -filelist /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/Objects-normal/i386/plataformas.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/plataformas0#
+
+CProcessInfoPlistFile /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/Info.plist plataformas-Info.plist
+s318603146.309603
+e318603146.320093
+r1
+xProcessInfoPlistFile
+x/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/Info.plist
+xplataformas-Info.plist
+lSLF07#2@30"Process plataformas-Info.plist318603146#318603146#0(0"0(0#0#85"/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/plataformas-Info.plist8615716480#563"    cd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility plataformas-Info.plist -genpkginfo /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app/Info.plist0#
+
+CProcessPCH /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/plataformas_Prefix-bkerpzlafudopjebktxyvhqkgill/plataformas_Prefix.pch.gch plataformas_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318603147.183572
+e318603149.683192
+r1
+xProcessPCH
+x/var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/plataformas_Prefix-bkerpzlafudopjebktxyvhqkgill/plataformas_Prefix.pch.gch
+xplataformas_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile plataformas_Prefix.pch318603147#318603149#0(0"0(0#0#85"/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/plataformas_Prefix.pch8613939680#2122"    cd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-generated-files.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-own-target-headers.hmap -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-all-target-headers.hmap -iquote /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/plataformas-project-headers.hmap -F/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/include -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/DerivedSources/i386 -I/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/plataformas.build/Debug-iphonesimulator/plataformas.build/DerivedSources -c /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/plataformas_Prefix.pch -o /var/folders/HJ/HJiyQdluEPSMOw9yMt6S7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/plataformas_Prefix-bkerpzlafudopjebktxyvhqkgill/plataformas_Prefix.pch.gch0#
+
+CTouch /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app
+s318606677.082556
+e318606677.084824
+r1
+xTouch
+x/Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app
+lSLF07#2@112"Touch /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app318606677#318606677#0(0"0(0#0#0"8637471424#330"    cd /Users/balancin/Documents/Projects/iPhone/20110205/plataformas    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/balancin/Documents/Projects/iPhone/20110205/plataformas/build/Debug-iphonesimulator/plataformas.app0#
+
